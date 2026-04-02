@@ -9,10 +9,6 @@
             <sparkle:shortVersionString>1.0.2</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
             <enclosure url="https://github.com/zeve-zz/updates/releases/download/v1.0.2/Normal.Mail.1.0.2.zip" length="6319985" type="application/octet-stream" sparkle:edSignature="9pE9/jD/FxDS55yK36dujbIWFeADifAuRZItb/jtj/fWsMwASHftKJO7uvO1lpBIRijM6njrY7hUKymid40oBA=="/>
-            <sparkle:deltas>
-                <enclosure url="https://github.com/zeve-zz/updates/releases/download/Normal%20Mail4-3.delta" sparkle:deltaFrom="3" length="127790" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="WcwZZAuJq65ECNDMbnOzdc44tI8F/mImv7UJS58lBhjC7XaarBpG2N/PnwKpbrW0YHfS1GI1Fwi9mE0pZ3LjCg=="/>
-                <enclosure url="https://github.com/zeve-zz/updates/releases/download/Normal%20Mail4-2.delta" sparkle:deltaFrom="2" length="127814" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="tC2mtXV0CqLynayZ1ioGPO8SIS/N9e7i1yirjujYSn7kIthszNxVSQTmU4jt8FV/L40UWLoX7asVL4VNsEbnBg=="/>
-            </sparkle:deltas>
         </item>
         <item>
             <title>1.0.1</title>
@@ -21,9 +17,6 @@
             <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
             <enclosure url="https://github.com/zeve-zz/updates/releases/download/v1.0.1/Normal.Mail.1.0.1.zip" length="6319875" type="application/octet-stream" sparkle:edSignature="JUW89auOpIiJfcdwdAIKfXbkFWYqStnqpoBmcySAovaQW4gMCflXJ0UD9YfQToT2gRbQwHbD+xTtsVb4153dDg=="/>
-            <sparkle:deltas>
-                <enclosure url="https://github.com/zeve-zz/email-app/releases/download/Normal%20Mail3-2.delta" sparkle:deltaFrom="2" length="3522" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="acsxohVCZcgHmbSbaYFMHNFiFQn+K0Qi4lf55pu5xE40y4ucermr4hEDIvRq7X91Omtxxh0BzqyKlXqdMyAzDQ=="/>
-            </sparkle:deltas>
         </item>
         <item>
             <title>1.0.0</title>
