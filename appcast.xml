@@ -3,6 +3,14 @@
     <channel>
         <title>Normal Mail</title>
         <item>
+            <title>1.0.8</title>
+            <pubDate>Thu, 09 Apr 2026 12:45:23 -0400</pubDate>
+            <sparkle:version>10</sparkle:version>
+            <sparkle:shortVersionString>1.0.8</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/zeve-zz/updates/releases/download/v1.0.8/Normal.Mail.1.0.8.zip" length="6336238" type="application/octet-stream" sparkle:edSignature="zaWPoM4NRKBVSoi7LQxlX6QB/c77OPYU1CZV5Uk4o5m15KwjfHp9OTtHs5KRSCIlhksDW7kkWMI481RVuvDDBA=="/>
+        </item>
+        <item>
             <title>1.0.7</title>
             <pubDate>Thu, 09 Apr 2026 10:40:23 -0400</pubDate>
             <sparkle:version>9</sparkle:version>
@@ -17,14 +25,6 @@
             <sparkle:shortVersionString>1.0.6</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
             <enclosure url="https://github.com/zeve-zz/updates/releases/download/v1.0.6/Normal.Mail.1.0.6.zip" length="6325195" type="application/octet-stream" sparkle:edSignature="FBcuiSUIOUXZilLJzgN4r0xP4U2mW50MAT9iuuqlLOq1O4iBz34wS4tGc+tMvxJ3tNTXlxtT3URnXmrea9sYDg=="/>
-        </item>
-        <item>
-            <title>1.0.5</title>
-            <pubDate>Thu, 02 Apr 2026 10:05:48 -0400</pubDate>
-            <sparkle:version>7</sparkle:version>
-            <sparkle:shortVersionString>1.0.5</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/zeve-zz/updates/releases/download/v1.0.5/Normal.Mail.1.0.5.zip" length="6324642" type="application/octet-stream" sparkle:edSignature="0i6W+qPmjktOioe/xj+Tk3aahXFcDbCszfFnS/ly56eZRKCTJeCEHqNZ8rQooCVyxCmSmpw9bUnVEEg75ztODg=="/>
         </item>
     </channel>
 </rss>
