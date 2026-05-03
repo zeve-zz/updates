@@ -4,6 +4,10 @@
         <title>Normal Mail</title>
         <item>
             <title>1.0.14</title>
+            <description><![CDATA[<h3>Bug fixes</h3>
+<ul>
+<li>Fixed an issue where replying to a marketing email could tint your new reply text with the original sender's stationery background color.</li>
+</ul>]]></description>
             <pubDate>Sun, 03 May 2026 11:17:40 -0400</pubDate>
             <sparkle:version>16</sparkle:version>
             <sparkle:shortVersionString>1.0.14</sparkle:shortVersionString>
