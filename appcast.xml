@@ -3,6 +3,19 @@
     <channel>
         <title>Normal Mail</title>
         <item>
+            <title>1.0.15</title>
+            <description><![CDATA[<h3>What's new</h3>
+<ul>
+<li>Normal Mail can now be your default mail app. <code>mailto:</code> links from your browser, Calendar invites, and other apps will open a new compose window in Normal Mail with the address, subject, and body pre-filled.</li>
+<li>A new "Default Mail App" section in Settings → General lets you set Normal Mail as the system default with one click.</li>
+</ul>]]></description>
+            <pubDate>Mon, 04 May 2026 10:50:44 -0400</pubDate>
+            <sparkle:version>17</sparkle:version>
+            <sparkle:shortVersionString>1.0.15</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/zeve-zz/updates/releases/download/v1.0.15/Normal.Mail.1.0.15.zip" length="6463946" type="application/octet-stream" sparkle:edSignature="FndlmZXB5wAefy+rAeSpXU/wLD7X7N7b8Dy4R58WcKC2Cs77nHv6WvafhAHK5BRwPGZ91oAZ2imtgX4YLoQpBw=="/>
+        </item>
+        <item>
             <title>1.0.14</title>
             <description><![CDATA[<h3>Bug fixes</h3>
 <ul>
@@ -21,14 +34,6 @@
             <sparkle:shortVersionString>1.0.13</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
             <enclosure url="https://github.com/zeve-zz/updates/releases/download/v1.0.13/Normal.Mail.1.0.13.zip" length="6440641" type="application/octet-stream" sparkle:edSignature="rtZp/pJr20eb1TJZm+IjspIpReM9zTRtx9FS4U5A+rsyJHcqRnGi5imArBgioXno06/AtPAEVK51A49Ws9PkCQ=="/>
-        </item>
-        <item>
-            <title>1.0.12</title>
-            <pubDate>Fri, 17 Apr 2026 07:50:50 -0400</pubDate>
-            <sparkle:version>14</sparkle:version>
-            <sparkle:shortVersionString>1.0.12</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/zeve-zz/updates/releases/download/v1.0.12/Normal.Mail.1.0.12.zip" length="6404839" type="application/octet-stream" sparkle:edSignature="Ae4G6CDPD29sA9b93ex+PNOT+UuGjgoxrwTNdz0M+9dd668wHF1IKNgU8aiZGIDCkiTKRPt3HadVAukwzXj6AQ=="/>
         </item>
     </channel>
 </rss>
