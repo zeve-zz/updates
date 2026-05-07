@@ -6,7 +6,7 @@
             <title>1.0.18</title>
             <description><![CDATA[<h3>Bug fixes</h3>
 <ul>
-<li>Sender names with quoted display names (e.g. <code>"Jim St. André"</code>) no longer show with stray backslashes around them in the thread view (BOX-14).</li>
+<li>Fixed sender names showing with stray backslashes in the thread view when the From header contained nested quoted display names (BOX-14).</li>
 </ul>]]></description>
             <pubDate>Thu, 07 May 2026 11:09:26 -0400</pubDate>
             <sparkle:version>20</sparkle:version>
