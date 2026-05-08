@@ -3,6 +3,18 @@
     <channel>
         <title>Normal Mail</title>
         <item>
+            <title>1.0.20</title>
+            <description><![CDATA[<h3>Bug fixes</h3>
+<ul>
+<li>Fixed double-clicking an email in <strong>Trash</strong> opening a popout window with a blank body (only the subject was shown). Trashed messages now render correctly in the popout (BOX-16).</li>
+</ul>]]></description>
+            <pubDate>Fri, 08 May 2026 10:43:40 -0400</pubDate>
+            <sparkle:version>22</sparkle:version>
+            <sparkle:shortVersionString>1.0.20</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/zeve-zz/updates/releases/download/v1.0.20/Normal.Mail.1.0.20.zip" length="6466454" type="application/octet-stream" sparkle:edSignature="Wdcs+dGn9VdncAObPMfyX94D/MS2gbd5+YpF+2ngHmEiLC81XiBjnvv+Aw9aXVLzUNRne36e7/glKJVQzT9jAQ=="/>
+        </item>
+        <item>
             <title>1.0.19</title>
             <description><![CDATA[<h3>Bug fixes</h3>
 <ul>
@@ -31,23 +43,6 @@
             <sparkle:shortVersionString>1.0.18</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
             <enclosure url="https://github.com/zeve-zz/updates/releases/download/v1.0.18/Normal.Mail.1.0.18.zip" length="6465144" type="application/octet-stream" sparkle:edSignature="jFb1c0a7LCME02h1wLzEteTrtlRakfOCa9tR6a+uH2i9ugMjqlUqwDGhVGaVfpPlQjLdBQw5UtwUBADeN7fjCQ=="/>
-        </item>
-        <item>
-            <title>1.0.17</title>
-            <description><![CDATA[<h3>What's new</h3>
-<ul>
-<li>Normal Mail now silently checks for updates every time you launch the app (when "Automatically check for updates" is on in Settings), so you'll see new versions sooner instead of waiting for Sparkle's 24-hour timer.</li>
-<li>⌘1 now scrolls both the sidebar and the message list back to the top, in addition to selecting your Inbox.</li>
-</ul>
-<h3>Bug fixes</h3>
-<ul>
-<li>⌘1 no longer recenters the main window. Your window position is preserved when navigating to your Inbox.</li>
-</ul>]]></description>
-            <pubDate>Tue, 05 May 2026 10:25:14 -0400</pubDate>
-            <sparkle:version>19</sparkle:version>
-            <sparkle:shortVersionString>1.0.17</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/zeve-zz/updates/releases/download/v1.0.17/Normal.Mail.1.0.17.zip" length="6470429" type="application/octet-stream" sparkle:edSignature="p4CY607OQEb75mXX35/RsyoP9mEt9DEQ0QQJtoCTF3F/pUPZqVI7bG3d1KYL8otLBtI27eEOYjfsgSfz6xNWCA=="/>
         </item>
     </channel>
 </rss>
