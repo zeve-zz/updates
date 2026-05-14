@@ -3,6 +3,18 @@
     <channel>
         <title>Normal Mail</title>
         <item>
+            <title>1.0.21</title>
+            <description><![CDATA[<h3>What's new</h3>
+<ul>
+<li>Settings → General → Notifications now tells you when macOS has <strong>denied</strong> notification permission, with a one-click button to open the right pane in System Settings (BOX-94).</li>
+</ul>]]></description>
+            <pubDate>Wed, 13 May 2026 20:02:41 -0400</pubDate>
+            <sparkle:version>23</sparkle:version>
+            <sparkle:shortVersionString>1.0.21</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/zeve-zz/updates/releases/download/v1.0.21/Normal.Mail.1.0.21.zip" length="6481884" type="application/octet-stream" sparkle:edSignature="EDFfDyqN8d2CQTGRk9g9MX4NVIspKzpJSe1+3u8VRZHVjXJZdOCrP44V76/4kii88uf1mPcMkIe7FwLFW9YkDw=="/>
+        </item>
+        <item>
             <title>1.0.20</title>
             <description><![CDATA[<h3>Bug fixes</h3>
 <ul>
@@ -31,18 +43,6 @@
             <sparkle:shortVersionString>1.0.19</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
             <enclosure url="https://github.com/zeve-zz/updates/releases/download/v1.0.19/Normal.Mail.1.0.19.zip" length="6465701" type="application/octet-stream" sparkle:edSignature="6ZDZSXoEOvAj6Pe/i+uTOF0/njAUiqkXoGP/5PrqGrNRXRp3yfLc5XQF8mUGiVwdrLTSS2c2flJgyI7ipwQmAQ=="/>
-        </item>
-        <item>
-            <title>1.0.18</title>
-            <description><![CDATA[<h3>Bug fixes</h3>
-<ul>
-<li>Fixed sender names showing with stray backslashes in the thread view when the From header contained nested quoted display names (BOX-14).</li>
-</ul>]]></description>
-            <pubDate>Thu, 07 May 2026 11:09:26 -0400</pubDate>
-            <sparkle:version>20</sparkle:version>
-            <sparkle:shortVersionString>1.0.18</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/zeve-zz/updates/releases/download/v1.0.18/Normal.Mail.1.0.18.zip" length="6465144" type="application/octet-stream" sparkle:edSignature="jFb1c0a7LCME02h1wLzEteTrtlRakfOCa9tR6a+uH2i9ugMjqlUqwDGhVGaVfpPlQjLdBQw5UtwUBADeN7fjCQ=="/>
         </item>
     </channel>
 </rss>
