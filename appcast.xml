@@ -3,6 +3,18 @@
     <channel>
         <title>Normal Mail</title>
         <item>
+            <title>1.0.22</title>
+            <description><![CDATA[<h3>What's new</h3>
+<ul>
+<li>Normal Mail now requires a license. On launch, enter your license key to activate the app. You can purchase a license or manage activation from the activation screen and in Settings → License.</li>
+</ul>]]></description>
+            <pubDate>Sun, 17 May 2026 12:11:27 -0400</pubDate>
+            <sparkle:version>24</sparkle:version>
+            <sparkle:shortVersionString>1.0.22</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/zeve-zz/updates/releases/download/v1.0.22/Normal.Mail.1.0.22.zip" length="6485630" type="application/octet-stream" sparkle:edSignature="eKVLeDNhJACSMagj102v9xHCtL/+E7W7paG3XoDMgtkC0nXpQvHPD/QK7PxjVlPffnAubLX1qX90IlfOPmgPDw=="/>
+        </item>
+        <item>
             <title>1.0.21</title>
             <description><![CDATA[<h3>What's new</h3>
 <ul>
@@ -25,24 +37,6 @@
             <sparkle:shortVersionString>1.0.20</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
             <enclosure url="https://github.com/zeve-zz/updates/releases/download/v1.0.20/Normal.Mail.1.0.20.zip" length="6466454" type="application/octet-stream" sparkle:edSignature="Wdcs+dGn9VdncAObPMfyX94D/MS2gbd5+YpF+2ngHmEiLC81XiBjnvv+Aw9aXVLzUNRne36e7/glKJVQzT9jAQ=="/>
-        </item>
-        <item>
-            <title>1.0.19</title>
-            <description><![CDATA[<h3>Bug fixes</h3>
-<ul>
-<li>Fixed a critical bug where pressing <strong>Send → Undo → Send</strong> during the unsend countdown could deliver a blank email. The recipient appeared to send, but the body was empty on arrival (BOX-15).</li>
-</ul>
-<h3>Recent improvements (since 1.0.16)</h3>
-<ul>
-<li>1.0.18: Sender names with nested quoted display names no longer show stray backslashes in the thread view.</li>
-<li>1.0.17: Normal Mail now silently checks for updates on every launch (when "Automatically check for updates" is enabled in Settings), instead of waiting up to 24 hours.</li>
-<li>1.0.17: ⌘1 jumps to your Inbox and scrolls both the sidebar and message list to the top. It no longer recenters the main window.</li>
-</ul>]]></description>
-            <pubDate>Thu, 07 May 2026 20:45:35 -0400</pubDate>
-            <sparkle:version>21</sparkle:version>
-            <sparkle:shortVersionString>1.0.19</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/zeve-zz/updates/releases/download/v1.0.19/Normal.Mail.1.0.19.zip" length="6465701" type="application/octet-stream" sparkle:edSignature="6ZDZSXoEOvAj6Pe/i+uTOF0/njAUiqkXoGP/5PrqGrNRXRp3yfLc5XQF8mUGiVwdrLTSS2c2flJgyI7ipwQmAQ=="/>
         </item>
     </channel>
 </rss>
