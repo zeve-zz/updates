@@ -3,6 +3,23 @@
     <channel>
         <title>Normal Mail</title>
         <item>
+            <title>1.0.24</title>
+            <description><![CDATA[<h3>What's new</h3>
+<ul>
+<li>Verification codes in incoming emails now appear right in the notification, with a "Copy Code" button — no need to open the email.</li>
+</ul>
+<h3>Bug fixes</h3>
+<ul>
+<li>Searching with the unread-only filter active no longer hides matches silently — the results header now shows how many results the filter is hiding.</li>
+<li>Fixed "1 results" pluralization in the search header.</li>
+</ul>]]></description>
+            <pubDate>Fri, 12 Jun 2026 11:37:10 -0400</pubDate>
+            <sparkle:version>26</sparkle:version>
+            <sparkle:shortVersionString>1.0.24</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/zeve-zz/updates/releases/download/v1.0.24/Normal.Mail.1.0.24.zip" length="6548364" type="application/octet-stream" sparkle:edSignature="vARFCnqnrcLWI8655NbIQ1eYgKHFKgTSc80WIepxSLb4b7hidQHDnlZYsykIUmHiBmw/Bjq3nh8UKPd6spGvDg=="/>
+        </item>
+        <item>
             <title>1.0.23</title>
             <description><![CDATA[<h3>What's new</h3>
 <ul>
@@ -30,18 +47,6 @@
             <sparkle:shortVersionString>1.0.22</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
             <enclosure url="https://github.com/zeve-zz/updates/releases/download/v1.0.22/Normal.Mail.1.0.22.zip" length="6485630" type="application/octet-stream" sparkle:edSignature="eKVLeDNhJACSMagj102v9xHCtL/+E7W7paG3XoDMgtkC0nXpQvHPD/QK7PxjVlPffnAubLX1qX90IlfOPmgPDw=="/>
-        </item>
-        <item>
-            <title>1.0.21</title>
-            <description><![CDATA[<h3>What's new</h3>
-<ul>
-<li>Settings → General → Notifications now tells you when macOS has <strong>denied</strong> notification permission, with a one-click button to open the right pane in System Settings (BOX-94).</li>
-</ul>]]></description>
-            <pubDate>Wed, 13 May 2026 20:02:41 -0400</pubDate>
-            <sparkle:version>23</sparkle:version>
-            <sparkle:shortVersionString>1.0.21</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/zeve-zz/updates/releases/download/v1.0.21/Normal.Mail.1.0.21.zip" length="6481884" type="application/octet-stream" sparkle:edSignature="EDFfDyqN8d2CQTGRk9g9MX4NVIspKzpJSe1+3u8VRZHVjXJZdOCrP44V76/4kii88uf1mPcMkIe7FwLFW9YkDw=="/>
         </item>
     </channel>
 </rss>
