@@ -3,6 +3,19 @@
     <channel>
         <title>Normal Mail</title>
         <item>
+            <title>1.0.25</title>
+            <description><![CDATA[<h3>What's new</h3>
+<ul>
+<li><strong>Send Feedback</strong> — found a bug or missing a feature? Help ▸ Send Feedback… sends your thoughts straight to the developer, with your app version attached automatically.</li>
+<li>The About panel now shows that you're running a beta build.</li>
+</ul>]]></description>
+            <pubDate>Mon, 13 Jul 2026 14:12:22 -0400</pubDate>
+            <sparkle:version>27</sparkle:version>
+            <sparkle:shortVersionString>1.0.25</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/zeve-zz/updates/releases/download/v1.0.25/Normal.Mail.1.0.25.zip" length="6587184" type="application/octet-stream" sparkle:edSignature="0O86fOIco69CgyQfMBb2sojVYQt4xxZrT+KMiQKjM65wAMPu7WauEmRIT6HOCFfmWvPLqR5RnmyqWHlB5Z/1DQ=="/>
+        </item>
+        <item>
             <title>1.0.24</title>
             <description><![CDATA[<h3>What's new</h3>
 <ul>
@@ -35,18 +48,6 @@
             <sparkle:shortVersionString>1.0.23</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
             <enclosure url="https://github.com/zeve-zz/updates/releases/download/v1.0.23/Normal.Mail.1.0.23.zip" length="6534825" type="application/octet-stream" sparkle:edSignature="kWdltYATHWJ0XKjoDL9xov4G6vR/AXwV+837jRSjvl12BdAP3pKwY3faYLEPFA6Dy+DaOKEZoleB2+XQq9l7BQ=="/>
-        </item>
-        <item>
-            <title>1.0.22</title>
-            <description><![CDATA[<h3>What's new</h3>
-<ul>
-<li>Normal Mail now requires a license. On launch, enter your license key to activate the app. You can purchase a license or manage activation from the activation screen and in Settings → License.</li>
-</ul>]]></description>
-            <pubDate>Sun, 17 May 2026 12:11:27 -0400</pubDate>
-            <sparkle:version>24</sparkle:version>
-            <sparkle:shortVersionString>1.0.22</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/zeve-zz/updates/releases/download/v1.0.22/Normal.Mail.1.0.22.zip" length="6485630" type="application/octet-stream" sparkle:edSignature="eKVLeDNhJACSMagj102v9xHCtL/+E7W7paG3XoDMgtkC0nXpQvHPD/QK7PxjVlPffnAubLX1qX90IlfOPmgPDw=="/>
         </item>
     </channel>
 </rss>
