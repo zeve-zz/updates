@@ -3,6 +3,18 @@
     <channel>
         <title>Normal Mail</title>
         <item>
+            <title>1.0.26</title>
+            <description><![CDATA[<h3>What's new</h3>
+<ul>
+<li>Normal Mail is now notarized by Apple — it opens on any Mac with no security warnings.</li>
+</ul>]]></description>
+            <pubDate>Thu, 16 Jul 2026 10:43:30 -0400</pubDate>
+            <sparkle:version>28</sparkle:version>
+            <sparkle:shortVersionString>1.0.26</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/zeve-zz/updates/releases/download/v1.0.26/Normal.Mail.1.0.26.zip" length="6634821" type="application/octet-stream" sparkle:edSignature="42uCvPahFuv/QAWTijvrCSZFdX5SxGUJ1rc72a4YcnS1k9IHn4q5ddbF2E4xrYlHnxw+We3IUSEes92LUl4VDA=="/>
+        </item>
+        <item>
             <title>1.0.25</title>
             <description><![CDATA[<h3>What's new</h3>
 <ul>
@@ -31,23 +43,6 @@
             <sparkle:shortVersionString>1.0.24</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
             <enclosure url="https://github.com/zeve-zz/updates/releases/download/v1.0.24/Normal.Mail.1.0.24.zip" length="6548364" type="application/octet-stream" sparkle:edSignature="vARFCnqnrcLWI8655NbIQ1eYgKHFKgTSc80WIepxSLb4b7hidQHDnlZYsykIUmHiBmw/Bjq3nh8UKPd6spGvDg=="/>
-        </item>
-        <item>
-            <title>1.0.23</title>
-            <description><![CDATA[<h3>What's new</h3>
-<ul>
-<li>When forwarding an email, Normal Mail now offers to carry over the original message's attachments.</li>
-</ul>
-<h3>Bug fixes</h3>
-<ul>
-<li>Quick Look no longer re-opens an attachment when you press the space bar in another window.</li>
-<li>Attachments in the compose window now wrap onto multiple rows instead of being cut off when there are several of them.</li>
-</ul>]]></description>
-            <pubDate>Mon, 18 May 2026 22:17:35 -0400</pubDate>
-            <sparkle:version>25</sparkle:version>
-            <sparkle:shortVersionString>1.0.23</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/zeve-zz/updates/releases/download/v1.0.23/Normal.Mail.1.0.23.zip" length="6534825" type="application/octet-stream" sparkle:edSignature="kWdltYATHWJ0XKjoDL9xov4G6vR/AXwV+837jRSjvl12BdAP3pKwY3faYLEPFA6Dy+DaOKEZoleB2+XQq9l7BQ=="/>
         </item>
     </channel>
 </rss>
