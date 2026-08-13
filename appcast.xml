@@ -3,6 +3,29 @@
     <channel>
         <title>Normal Mail</title>
         <item>
+            <title>1.0.27</title>
+            <description><![CDATA[<h3>What's new</h3>
+<ul>
+<li><strong>Undo Send is now in the reading pane.</strong> A message you've just sent appears at the top of the conversation with a countdown and an Undo Send button, so you don't have to spot the notice in the sidebar.</li>
+<li><strong>Faster launch.</strong> Normal Mail opens straight into your mail instead of pausing on startup checks, and it no longer locks you out when your connection drops.</li>
+<li><strong>Faster scrolling and reading.</strong> Message lists and conversations do far less repeated work, which shows up most on long threads and large mailboxes.</li>
+</ul>
+<h3>Bug fixes</h3>
+<ul>
+<li>Attached images no longer go missing. Some senders tag every image in a way that made Normal Mail treat it as part of the message body and hide it — those now appear as attachments, and forward correctly too.</li>
+<li>Replying to a conversation you found through search now updates both the conversation and the message list right away, instead of looking like nothing happened.</li>
+<li>Changing the From account on a reply no longer fails silently. The reply is sent as a new conversation from that account.</li>
+<li>Opening a new message from a notification now works while a search is active — the search clears and the message opens, instead of emptying the reading pane.</li>
+<li>If a message fails to send and notifications are turned off, Normal Mail now tells you instead of failing quietly.</li>
+<li>Reading a conversation is no longer interrupted every time mail is checked — expanded messages stay expanded and your place is kept.</li>
+</ul>]]></description>
+            <pubDate>Thu, 13 Aug 2026 12:08:42 -0400</pubDate>
+            <sparkle:version>29</sparkle:version>
+            <sparkle:shortVersionString>1.0.27</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/zeve-zz/updates/releases/download/v1.0.27/Normal.Mail.1.0.27.zip" length="6752698" type="application/octet-stream" sparkle:edSignature="wrwuwQ2RKELKHD8WyrEfPwfwBpTfmT8oTjNub+GQqdBNmibQbnIKDCySeIPQGbPdSshyqKTDOdWAZ8q0nZrVCQ=="/>
+        </item>
+        <item>
             <title>1.0.26</title>
             <description><![CDATA[<h3>What's new</h3>
 <ul>
@@ -26,23 +49,6 @@
             <sparkle:shortVersionString>1.0.25</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
             <enclosure url="https://github.com/zeve-zz/updates/releases/download/v1.0.25/Normal.Mail.1.0.25.zip" length="6587184" type="application/octet-stream" sparkle:edSignature="0O86fOIco69CgyQfMBb2sojVYQt4xxZrT+KMiQKjM65wAMPu7WauEmRIT6HOCFfmWvPLqR5RnmyqWHlB5Z/1DQ=="/>
-        </item>
-        <item>
-            <title>1.0.24</title>
-            <description><![CDATA[<h3>What's new</h3>
-<ul>
-<li>Verification codes in incoming emails now appear right in the notification, with a "Copy Code" button — no need to open the email.</li>
-</ul>
-<h3>Bug fixes</h3>
-<ul>
-<li>Searching with the unread-only filter active no longer hides matches silently — the results header now shows how many results the filter is hiding.</li>
-<li>Fixed "1 results" pluralization in the search header.</li>
-</ul>]]></description>
-            <pubDate>Fri, 12 Jun 2026 11:37:10 -0400</pubDate>
-            <sparkle:version>26</sparkle:version>
-            <sparkle:shortVersionString>1.0.24</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/zeve-zz/updates/releases/download/v1.0.24/Normal.Mail.1.0.24.zip" length="6548364" type="application/octet-stream" sparkle:edSignature="vARFCnqnrcLWI8655NbIQ1eYgKHFKgTSc80WIepxSLb4b7hidQHDnlZYsykIUmHiBmw/Bjq3nh8UKPd6spGvDg=="/>
         </item>
     </channel>
 </rss>
