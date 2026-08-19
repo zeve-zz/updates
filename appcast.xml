@@ -3,6 +3,18 @@
     <channel>
         <title>Normal Mail</title>
         <item>
+            <title>1.0.28</title>
+            <description><![CDATA[<h3>Bug fixes</h3>
+<ul>
+<li>Fixed a bug where starting a new email by clicking someone's address in a conversation opened a window you couldn't send from — the Send button did nothing.</li>
+</ul>]]></description>
+            <pubDate>Wed, 19 Aug 2026 09:58:54 -0400</pubDate>
+            <sparkle:version>30</sparkle:version>
+            <sparkle:shortVersionString>1.0.28</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/zeve-zz/updates/releases/download/v1.0.28/Normal.Mail.1.0.28.zip" length="6753567" type="application/octet-stream" sparkle:edSignature="kF1VJaJMkEyZ/DsjVwMDqVBMQzPpmBmnssy+hb1sPayj/+tJKrsNcU7PTta5akn5btqMJyNpR3x/SpQlojXOCA=="/>
+        </item>
+        <item>
             <title>1.0.27</title>
             <description><![CDATA[<h3>What's new</h3>
 <ul>
@@ -36,19 +48,6 @@
             <sparkle:shortVersionString>1.0.26</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
             <enclosure url="https://github.com/zeve-zz/updates/releases/download/v1.0.26/Normal.Mail.1.0.26.zip" length="6634821" type="application/octet-stream" sparkle:edSignature="42uCvPahFuv/QAWTijvrCSZFdX5SxGUJ1rc72a4YcnS1k9IHn4q5ddbF2E4xrYlHnxw+We3IUSEes92LUl4VDA=="/>
-        </item>
-        <item>
-            <title>1.0.25</title>
-            <description><![CDATA[<h3>What's new</h3>
-<ul>
-<li><strong>Send Feedback</strong> — found a bug or missing a feature? Help ▸ Send Feedback… sends your thoughts straight to the developer, with your app version attached automatically.</li>
-<li>The About panel now shows that you're running a beta build.</li>
-</ul>]]></description>
-            <pubDate>Mon, 13 Jul 2026 14:12:22 -0400</pubDate>
-            <sparkle:version>27</sparkle:version>
-            <sparkle:shortVersionString>1.0.25</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/zeve-zz/updates/releases/download/v1.0.25/Normal.Mail.1.0.25.zip" length="6587184" type="application/octet-stream" sparkle:edSignature="0O86fOIco69CgyQfMBb2sojVYQt4xxZrT+KMiQKjM65wAMPu7WauEmRIT6HOCFfmWvPLqR5RnmyqWHlB5Z/1DQ=="/>
         </item>
     </channel>
 </rss>
