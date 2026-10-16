@@ -3,6 +3,35 @@
     <channel>
         <title>Normal Mail</title>
         <item>
+            <title>1.0.31</title>
+            <description><![CDATA[<p>
+<strong>Beta release</strong> — new features below are in beta. Please send feedback from Help › Send Feedback.
+</p>
+<h3>What's new</h3>
+<ul>
+<li><strong>Archive.</strong> Clear conversations out of your Inbox without deleting them — toolbar button, Message › Archive (⌃⌘A), or press <code>e</code>. ⌘Z undoes it.</li>
+<li><strong>Keyboard shortcuts.</strong> <code>j</code>/<code>k</code> to move between conversations, <code>e</code> archive, <code>#</code> delete, <code>s</code> star, <code>r</code>/<code>a</code>/<code>f</code> reply / reply all / forward, <code>c</code> compose, <code>/</code> search, <code>l</code> labels, <code>b</code> snooze. Press <code>?</code> for the full list; turn them off in Settings › General.</li>
+<li><strong>Labels.</strong> Labels now show their real names. Add, remove and create labels on a conversation with the <code>+</code> chip (or <code>l</code>), and rename or delete them from the sidebar.</li>
+<li><strong>Unsubscribe.</strong> A button next to the subject of mailing-list email unsubscribes you — in one click when the sender supports it.</li>
+<li><strong>Snooze.</strong> Hide a conversation until later today, tomorrow, the weekend, next week, or a time you pick. It comes back to your Inbox as unread.</li>
+<li><strong>Send Later.</strong> Schedule an email from the compose window. Scheduled emails wait in Drafts and are listed at the bottom of the sidebar.</li>
+</ul>
+<h3>Important: Snooze and Send Later need the app open</h3>
+<p>
+Snoozed conversations come back and scheduled emails send <strong>only while Normal Mail is open</strong> on your Mac. If the app is closed at that time, it happens the next time you open it. Normal Mail warns you if you quit with anything pending.
+</p>
+<h3>Bug fixes</h3>
+<ul>
+<li>Emails with an empty body (such as unsubscribe requests) can now be sent.</li>
+<li>Multi-select delete can now be undone with ⌘Z.</li>
+</ul>]]></description>
+            <pubDate>Thu, 15 Oct 2026 21:59:21 -0400</pubDate>
+            <sparkle:version>33</sparkle:version>
+            <sparkle:shortVersionString>1.0.31</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/zeve-zz/updates/releases/download/v1.0.31/Normal.Mail.1.0.31.zip" length="7046950" type="application/octet-stream" sparkle:edSignature="mWGdN9bDbZzbEhI2eG7GoBYzUKi9g0xkrLg2haY5xMZw1OC/tU+0gHkGowfC4TiBOTT0Jjt5urwSiqFI7T2iAg=="/>
+        </item>
+        <item>
             <title>1.0.30</title>
             <description><![CDATA[<h3>Bug fixes</h3>
 <ul>
@@ -30,18 +59,6 @@
             <sparkle:shortVersionString>1.0.29</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
             <enclosure url="https://github.com/zeve-zz/updates/releases/download/v1.0.29/Normal.Mail.1.0.29.zip" length="6754992" type="application/octet-stream" sparkle:edSignature="EoI+QZXtnOjs7IMPgRuEV8lSkaxkdOp+j685logOSEgdZzhkTkYqwcv9dCk6vL8vOEXom4cR+s0oJozKkgcRBA=="/>
-        </item>
-        <item>
-            <title>1.0.28</title>
-            <description><![CDATA[<h3>Bug fixes</h3>
-<ul>
-<li>Fixed a bug where starting a new email by clicking someone's address in a conversation opened a window you couldn't send from — the Send button did nothing.</li>
-</ul>]]></description>
-            <pubDate>Wed, 19 Aug 2026 09:58:54 -0400</pubDate>
-            <sparkle:version>30</sparkle:version>
-            <sparkle:shortVersionString>1.0.28</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/zeve-zz/updates/releases/download/v1.0.28/Normal.Mail.1.0.28.zip" length="6753567" type="application/octet-stream" sparkle:edSignature="kF1VJaJMkEyZ/DsjVwMDqVBMQzPpmBmnssy+hb1sPayj/+tJKrsNcU7PTta5akn5btqMJyNpR3x/SpQlojXOCA=="/>
         </item>
     </channel>
 </rss>
