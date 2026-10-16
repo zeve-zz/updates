@@ -3,6 +3,25 @@
     <channel>
         <title>Normal Mail</title>
         <item>
+            <title>1.0.35</title>
+            <description><![CDATA[<p>
+<strong>Beta release</strong> — please send feedback from Help › Send Feedback.
+</p>
+<h3>What's new</h3>
+<ul>
+<li><strong>A cleaner What's New.</strong> This window has a new look, with earlier updates tucked away under Earlier updates.</li>
+</ul>
+<h3>Bug fixes</h3>
+<ul>
+<li><strong>Menu bar icon.</strong> The unread count now has proper spacing next to the envelope.</li>
+</ul>]]></description>
+            <pubDate>Fri, 16 Oct 2026 10:21:34 -0400</pubDate>
+            <sparkle:version>37</sparkle:version>
+            <sparkle:shortVersionString>1.0.35</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/zeve-zz/updates/releases/download/v1.0.35/Normal.Mail.1.0.35.zip" length="7222342" type="application/octet-stream" sparkle:edSignature="rGT9yEnn05U5nYdhJkIdyrw/EGE//f8G1iP6HgwH2KtbrVtTff9+kzkKzmSDwOKXJOv1s6C7CCfUYKWl91iMCQ=="/>
+        </item>
+        <item>
             <title>1.0.34</title>
             <description><![CDATA[<p>
 <strong>Beta release</strong> — please send feedback from Help › Send Feedback.
@@ -38,21 +57,6 @@
             <sparkle:shortVersionString>1.0.33</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
             <enclosure url="https://github.com/zeve-zz/updates/releases/download/v1.0.33/Normal.Mail.1.0.33.zip" length="7172078" type="application/octet-stream" sparkle:edSignature="CDTB5dDdC0TIEXM+4ao2R1lUrwTOeTgNuZx538cs1eB0xL2oOxClLQwMmuYzXPdoBBkKbXri0p3fZtge5RBwCQ=="/>
-        </item>
-        <item>
-            <title>1.0.32</title>
-            <description><![CDATA[<p>
-<strong>Beta release</strong> — please send feedback from Help › Send Feedback.
-</p>
-<h3>What's new</h3>
-<ul>
-<li><strong>What's New.</strong> See what changed in each update from Help › What's New in Normal Mail. It also opens once by itself after Normal Mail updates.</li>
-</ul>]]></description>
-            <pubDate>Thu, 15 Oct 2026 22:38:28 -0400</pubDate>
-            <sparkle:version>34</sparkle:version>
-            <sparkle:shortVersionString>1.0.32</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/zeve-zz/updates/releases/download/v1.0.32/Normal.Mail.1.0.32.zip" length="7084647" type="application/octet-stream" sparkle:edSignature="QxQAKFieNpg+bGivJ9vQIr6UaSmCDylmeOT1VW3xghq5aGZ8wEdnmIJvKDVzppMrKbqIvIOVqKes28LQxvkMDA=="/>
         </item>
     </channel>
 </rss>
