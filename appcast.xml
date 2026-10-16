@@ -3,6 +3,23 @@
     <channel>
         <title>Normal Mail</title>
         <item>
+            <title>1.0.36</title>
+            <description><![CDATA[<p>
+<strong>Beta release</strong> — please send feedback from Help › Send Feedback.
+</p>
+<h3>Bug fixes</h3>
+<ul>
+<li><strong>Dark mode reading.</strong> Newsletters, calendar invites and other designed emails are no longer hard to read in dark mode, and your own messages and replies keep the dark look with readable signatures.</li>
+<li><strong>Fewer false "codes".</strong> Emails with addresses, phone numbers or order numbers no longer show a verification code that isn't there.</li>
+<li><strong>Calendar invites</strong> no longer list the invite file twice.</li>
+</ul>]]></description>
+            <pubDate>Fri, 16 Oct 2026 17:40:16 -0400</pubDate>
+            <sparkle:version>38</sparkle:version>
+            <sparkle:shortVersionString>1.0.36</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/zeve-zz/updates/releases/download/v1.0.36/Normal.Mail.1.0.36.zip" length="7229762" type="application/octet-stream" sparkle:edSignature="vQqYPeMmrvQe5os5joAwYomoDmtecQgTPViszpHTeoaogetjx5hWju0hG2NAMghAK7KlCauA8Ri6j6cMUXN7BQ=="/>
+        </item>
+        <item>
             <title>1.0.35</title>
             <description><![CDATA[<p>
 <strong>Beta release</strong> — please send feedback from Help › Send Feedback.
@@ -35,28 +52,6 @@
             <sparkle:shortVersionString>1.0.34</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
             <enclosure url="https://github.com/zeve-zz/updates/releases/download/v1.0.34/Normal.Mail.1.0.34.zip" length="7198612" type="application/octet-stream" sparkle:edSignature="HmdnBUjrp+P5XFa9VOsDVUrnxbuQsIGoNf+i8UbkGjOuCQVM1N8yXWNx2oRfU2tPK8vPDwYVsR/h2bTnaP44Dg=="/>
-        </item>
-        <item>
-            <title>1.0.33</title>
-            <description><![CDATA[<p>
-<strong>Beta release</strong> — please send feedback from Help › Send Feedback.
-</p>
-<h3>What's new</h3>
-<ul>
-<li><strong>Images are hidden until you allow them.</strong> Remote images let senders see when you open their email, so they now stay hidden. Use <strong>Load Images</strong> on a message, <strong>Always from</strong> a sender you trust, or switch to Always in Settings › General › Privacy.</li>
-<li><strong>Sign-in links and codes.</strong> Sign-in and verification emails show the code and the link at the top of the message, with Copy and Open buttons. New-mail notifications get <strong>Open Link</strong> and <strong>Copy Link</strong> too. The link's website is always shown.</li>
-<li><strong>Menu bar icon.</strong> See your unread count from the menu bar, open recent unread mail, write a new message or check for mail. Turn it off in Settings › General.</li>
-<li><strong>All Starred.</strong> With more than one account, see starred mail from every account in one place, under All Inboxes.</li>
-</ul>
-<h3>Security</h3>
-<ul>
-<li>Scripts inside emails no longer run, and an email can no longer redirect the reading pane to a web page.</li>
-</ul>]]></description>
-            <pubDate>Fri, 16 Oct 2026 09:48:24 -0400</pubDate>
-            <sparkle:version>35</sparkle:version>
-            <sparkle:shortVersionString>1.0.33</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/zeve-zz/updates/releases/download/v1.0.33/Normal.Mail.1.0.33.zip" length="7172078" type="application/octet-stream" sparkle:edSignature="CDTB5dDdC0TIEXM+4ao2R1lUrwTOeTgNuZx538cs1eB0xL2oOxClLQwMmuYzXPdoBBkKbXri0p3fZtge5RBwCQ=="/>
         </item>
     </channel>
 </rss>
