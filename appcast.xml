@@ -3,6 +3,28 @@
     <channel>
         <title>Normal Mail</title>
         <item>
+            <title>1.0.33</title>
+            <description><![CDATA[<p>
+<strong>Beta release</strong> — please send feedback from Help › Send Feedback.
+</p>
+<h3>What's new</h3>
+<ul>
+<li><strong>Images are hidden until you allow them.</strong> Remote images let senders see when you open their email, so they now stay hidden. Use <strong>Load Images</strong> on a message, <strong>Always from</strong> a sender you trust, or switch to Always in Settings › General › Privacy.</li>
+<li><strong>Sign-in links and codes.</strong> Sign-in and verification emails show the code and the link at the top of the message, with Copy and Open buttons. New-mail notifications get <strong>Open Link</strong> and <strong>Copy Link</strong> too. The link's website is always shown.</li>
+<li><strong>Menu bar icon.</strong> See your unread count from the menu bar, open recent unread mail, write a new message or check for mail. Turn it off in Settings › General.</li>
+<li><strong>All Starred.</strong> With more than one account, see starred mail from every account in one place, under All Inboxes.</li>
+</ul>
+<h3>Security</h3>
+<ul>
+<li>Scripts inside emails no longer run, and an email can no longer redirect the reading pane to a web page.</li>
+</ul>]]></description>
+            <pubDate>Fri, 16 Oct 2026 09:48:24 -0400</pubDate>
+            <sparkle:version>35</sparkle:version>
+            <sparkle:shortVersionString>1.0.33</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/zeve-zz/updates/releases/download/v1.0.33/Normal.Mail.1.0.33.zip" length="7172078" type="application/octet-stream" sparkle:edSignature="CDTB5dDdC0TIEXM+4ao2R1lUrwTOeTgNuZx538cs1eB0xL2oOxClLQwMmuYzXPdoBBkKbXri0p3fZtge5RBwCQ=="/>
+        </item>
+        <item>
             <title>1.0.32</title>
             <description><![CDATA[<p>
 <strong>Beta release</strong> — please send feedback from Help › Send Feedback.
@@ -45,19 +67,6 @@ Snoozed conversations come back and scheduled emails send <strong>only while Nor
             <sparkle:shortVersionString>1.0.31</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
             <enclosure url="https://github.com/zeve-zz/updates/releases/download/v1.0.31/Normal.Mail.1.0.31.zip" length="7046950" type="application/octet-stream" sparkle:edSignature="mWGdN9bDbZzbEhI2eG7GoBYzUKi9g0xkrLg2haY5xMZw1OC/tU+0gHkGowfC4TiBOTT0Jjt5urwSiqFI7T2iAg=="/>
-        </item>
-        <item>
-            <title>1.0.30</title>
-            <description><![CDATA[<h3>Bug fixes</h3>
-<ul>
-<li>Right-clicking a sender or recipient name now opens the same address card as a left-click, with Copy Address and New Email.</li>
-<li>Fixed recipient names turning black and unreadable in dark mode when typing the next address after adding one.</li>
-</ul>]]></description>
-            <pubDate>Fri, 09 Oct 2026 11:56:47 -0400</pubDate>
-            <sparkle:version>32</sparkle:version>
-            <sparkle:shortVersionString>1.0.30</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/zeve-zz/updates/releases/download/v1.0.30/Normal.Mail.1.0.30.zip" length="6757276" type="application/octet-stream" sparkle:edSignature="7pRmAhl9xAJdyc1k+h2yVcYB6d2b+d+creGobIaKIXY3tu7AadKCGTV04w0ZkLq911CzuAtpPIVGQYZFybS1Dw=="/>
         </item>
     </channel>
 </rss>
