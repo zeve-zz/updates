@@ -3,6 +3,22 @@
     <channel>
         <title>Normal Mail</title>
         <item>
+            <title>1.0.38</title>
+            <description><![CDATA[<p>
+<strong>Beta release</strong> — please send feedback from Help › Send Feedback.
+</p>
+<h3>What's new</h3>
+<ul>
+<li><strong>Calendar invitations.</strong> Invitations now show at the top of the message with the time in your time zone, the location, and the organizer. <strong>Join</strong> opens the meeting link, and <strong>Add to Calendar</strong> puts the event in your calendar.</li>
+<li><strong>Bigger and smaller text.</strong> View › Bigger Text (⌘+) and Smaller Text (⌘−) now work in every message, including pop-out windows: the words grow and the message keeps its layout, newsletters too. Actual Size (⌘0) resets it, and Normal Mail remembers your choice.</li>
+</ul>]]></description>
+            <pubDate>Sun, 18 Oct 2026 09:26:10 -0400</pubDate>
+            <sparkle:version>40</sparkle:version>
+            <sparkle:shortVersionString>1.0.38</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/zeve-zz/updates/releases/download/v1.0.38/Normal.Mail.1.0.38.zip" length="7418070" type="application/octet-stream" sparkle:edSignature="thRLyY/Vre9sKyTOOIy18H4wuoGc4Mkp7gfswNXjMwBxHBAPpvjDOTD0oezjZybcBAbeaSGClejApFnWLML9Cg=="/>
+        </item>
+        <item>
             <title>1.0.37</title>
             <description><![CDATA[<p>
 <strong>Beta release</strong> — please send feedback from Help › Send Feedback.
@@ -33,25 +49,6 @@
             <sparkle:shortVersionString>1.0.36</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
             <enclosure url="https://github.com/zeve-zz/updates/releases/download/v1.0.36/Normal.Mail.1.0.36.zip" length="7229762" type="application/octet-stream" sparkle:edSignature="vQqYPeMmrvQe5os5joAwYomoDmtecQgTPViszpHTeoaogetjx5hWju0hG2NAMghAK7KlCauA8Ri6j6cMUXN7BQ=="/>
-        </item>
-        <item>
-            <title>1.0.35</title>
-            <description><![CDATA[<p>
-<strong>Beta release</strong> — please send feedback from Help › Send Feedback.
-</p>
-<h3>What's new</h3>
-<ul>
-<li><strong>A cleaner What's New.</strong> This window has a new look, with earlier updates tucked away under Earlier updates.</li>
-</ul>
-<h3>Bug fixes</h3>
-<ul>
-<li><strong>Menu bar icon.</strong> The unread count now has proper spacing next to the envelope.</li>
-</ul>]]></description>
-            <pubDate>Fri, 16 Oct 2026 10:21:34 -0400</pubDate>
-            <sparkle:version>37</sparkle:version>
-            <sparkle:shortVersionString>1.0.35</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/zeve-zz/updates/releases/download/v1.0.35/Normal.Mail.1.0.35.zip" length="7222342" type="application/octet-stream" sparkle:edSignature="rGT9yEnn05U5nYdhJkIdyrw/EGE//f8G1iP6HgwH2KtbrVtTff9+kzkKzmSDwOKXJOv1s6C7CCfUYKWl91iMCQ=="/>
         </item>
     </channel>
 </rss>
