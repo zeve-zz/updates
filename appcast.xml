@@ -3,6 +3,21 @@
     <channel>
         <title>Normal Mail</title>
         <item>
+            <title>1.0.41</title>
+            <description><![CDATA[<p>
+<strong>Beta release</strong> — please send feedback from Help › Send Feedback.
+</p>
+<h3>Bug fixes</h3>
+<ul>
+<li><strong>Login codes.</strong> Codes shown on their own line in big type — the way many login emails display them — are now found, including codes with letters and numbers.</li>
+</ul>]]></description>
+            <pubDate>Wed, 21 Oct 2026 09:55:15 -0400</pubDate>
+            <sparkle:version>43</sparkle:version>
+            <sparkle:shortVersionString>1.0.41</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/zeve-zz/updates/releases/download/v1.0.41/Normal.Mail.1.0.41.zip" length="7446258" type="application/octet-stream" sparkle:edSignature="9QG3DAF95IyKcPn4hZCIjLk3pEHrG2sfdyGTgC6EZwZ5TfpEVM5jb6OU+Ao3T8IXzCdmwiXjQ9L6uVC8YdJgDA=="/>
+        </item>
+        <item>
             <title>1.0.40</title>
             <description><![CDATA[<p>
 <strong>Beta release</strong> — please send feedback from Help › Send Feedback.
@@ -32,22 +47,6 @@
             <sparkle:shortVersionString>1.0.39</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
             <enclosure url="https://github.com/zeve-zz/updates/releases/download/v1.0.39/Normal.Mail.1.0.39.zip" length="7441900" type="application/octet-stream" sparkle:edSignature="0WHAdLvlVpXhM4/mbhL5nqO79neEQQVmoKBWdHbsQKzlx6m0qPC42vb7mpk1B9sV8kVn+juWHU/eP9DQQU4cCg=="/>
-        </item>
-        <item>
-            <title>1.0.38</title>
-            <description><![CDATA[<p>
-<strong>Beta release</strong> — please send feedback from Help › Send Feedback.
-</p>
-<h3>What's new</h3>
-<ul>
-<li><strong>Calendar invitations.</strong> Invitations now show at the top of the message with the time in your time zone, the location, and the organizer. <strong>Join</strong> opens the meeting link, and <strong>Add to Calendar</strong> puts the event in your calendar.</li>
-<li><strong>Bigger and smaller text.</strong> View › Bigger Text (⌘+) and Smaller Text (⌘−) now work in every message, including pop-out windows: the words grow and the message keeps its layout, newsletters too. Actual Size (⌘0) resets it, and Normal Mail remembers your choice.</li>
-</ul>]]></description>
-            <pubDate>Sun, 18 Oct 2026 09:26:10 -0400</pubDate>
-            <sparkle:version>40</sparkle:version>
-            <sparkle:shortVersionString>1.0.38</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/zeve-zz/updates/releases/download/v1.0.38/Normal.Mail.1.0.38.zip" length="7418070" type="application/octet-stream" sparkle:edSignature="thRLyY/Vre9sKyTOOIy18H4wuoGc4Mkp7gfswNXjMwBxHBAPpvjDOTD0oezjZybcBAbeaSGClejApFnWLML9Cg=="/>
         </item>
     </channel>
 </rss>
