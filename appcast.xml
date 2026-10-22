@@ -3,6 +3,22 @@
     <channel>
         <title>Normal Mail</title>
         <item>
+            <title>1.0.44</title>
+            <description><![CDATA[<p>
+<strong>Beta release</strong> — please send feedback from Help › Send Feedback.
+</p>
+<h3>Bug fixes</h3>
+<ul>
+<li><strong>Pasting into an email works again.</strong> Text and tables copied from other emails no longer paste in as invisible text in dark mode — they keep their layout and match your message's colors.</li>
+<li><strong>Undo after pasting.</strong> ⌘Z now undoes a paste.</li>
+</ul>]]></description>
+            <pubDate>Thu, 22 Oct 2026 11:53:18 -0400</pubDate>
+            <sparkle:version>46</sparkle:version>
+            <sparkle:shortVersionString>1.0.44</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/zeve-zz/updates/releases/download/v1.0.44/Normal.Mail.1.0.44.zip" length="7543521" type="application/octet-stream" sparkle:edSignature="UV55uMGjNwGJA4g+of90A6yEG4N1YeW3cBtLVJUQShHAlHYgysuk+PMw8mOqu2mFe5+pcqS5XGmY+UqS8/nGDA=="/>
+        </item>
+        <item>
             <title>1.0.43</title>
             <description><![CDATA[<p>
 <strong>Beta release</strong> — please send feedback from Help › Send Feedback.
@@ -31,21 +47,6 @@
             <sparkle:shortVersionString>1.0.42</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
             <enclosure url="https://github.com/zeve-zz/updates/releases/download/v1.0.42/Normal.Mail.1.0.42.zip" length="7541933" type="application/octet-stream" sparkle:edSignature="m7/cC33z7WCFChCgIUmUkzes5z4IWNifM19GQ33McjrOpJ83nQ1v0B4t8RkXOwjTNS+p3u8rFPeO41fBDat2Bw=="/>
-        </item>
-        <item>
-            <title>1.0.41</title>
-            <description><![CDATA[<p>
-<strong>Beta release</strong> — please send feedback from Help › Send Feedback.
-</p>
-<h3>Bug fixes</h3>
-<ul>
-<li><strong>Login codes.</strong> Codes shown on their own line in big type — the way many login emails display them — are now found, including codes with letters and numbers.</li>
-</ul>]]></description>
-            <pubDate>Wed, 21 Oct 2026 09:55:15 -0400</pubDate>
-            <sparkle:version>43</sparkle:version>
-            <sparkle:shortVersionString>1.0.41</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/zeve-zz/updates/releases/download/v1.0.41/Normal.Mail.1.0.41.zip" length="7446258" type="application/octet-stream" sparkle:edSignature="9QG3DAF95IyKcPn4hZCIjLk3pEHrG2sfdyGTgC6EZwZ5TfpEVM5jb6OU+Ao3T8IXzCdmwiXjQ9L6uVC8YdJgDA=="/>
         </item>
     </channel>
 </rss>
