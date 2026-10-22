@@ -3,6 +3,21 @@
     <channel>
         <title>Normal Mail</title>
         <item>
+            <title>1.0.45</title>
+            <description><![CDATA[<p>
+<strong>Beta release</strong> — please send feedback from Help › Send Feedback.
+</p>
+<h3>Improvements</h3>
+<ul>
+<li><strong>Subscriptions</strong> now hides senders you've unsubscribed from (use "Show unsubscribed" at the bottom to see them). Right after unsubscribing, <strong>Archive</strong> is highlighted — unsubscribing stops new mail, and Archive clears out what's already in your Inbox.</li>
+</ul>]]></description>
+            <pubDate>Thu, 22 Oct 2026 12:18:31 -0400</pubDate>
+            <sparkle:version>47</sparkle:version>
+            <sparkle:shortVersionString>1.0.45</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/zeve-zz/updates/releases/download/v1.0.45/Normal.Mail.1.0.45.zip" length="7547336" type="application/octet-stream" sparkle:edSignature="re+w0Tjh7QbpP8Sja46/m7rlsSsDNiPxtwLhFtyiEKVAydGEKKfT7+UUs4+kydWFUamcz9oj2ilIbg0QDCPIAQ=="/>
+        </item>
+        <item>
             <title>1.0.44</title>
             <description><![CDATA[<p>
 <strong>Beta release</strong> — please send feedback from Help › Send Feedback.
@@ -32,21 +47,6 @@
             <sparkle:shortVersionString>1.0.43</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
             <enclosure url="https://github.com/zeve-zz/updates/releases/download/v1.0.43/Normal.Mail.1.0.43.zip" length="7542400" type="application/octet-stream" sparkle:edSignature="WPY+wN8JYM4NwKj26W3yHtbkg9I3GuerY14VbaCDMVLrqBrtYSY5zk/tpzh/qm1M/XCbhJorf5JAj1qwdlzzCQ=="/>
-        </item>
-        <item>
-            <title>1.0.42</title>
-            <description><![CDATA[<p>
-<strong>Beta release</strong> — please send feedback from Help › Send Feedback.
-</p>
-<h3>What's new</h3>
-<ul>
-<li><strong>Subscriptions.</strong> See every newsletter and mailing list you can unsubscribe from, one row per sender — ten emails from the same newsletter show up once, with a count. Unsubscribe in one click, or archive everything from that sender. Open it from the sidebar or View › Subscriptions (⌥⌘U).</li>
-</ul>]]></description>
-            <pubDate>Thu, 22 Oct 2026 11:02:37 -0400</pubDate>
-            <sparkle:version>44</sparkle:version>
-            <sparkle:shortVersionString>1.0.42</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/zeve-zz/updates/releases/download/v1.0.42/Normal.Mail.1.0.42.zip" length="7541933" type="application/octet-stream" sparkle:edSignature="m7/cC33z7WCFChCgIUmUkzes5z4IWNifM19GQ33McjrOpJ83nQ1v0B4t8RkXOwjTNS+p3u8rFPeO41fBDat2Bw=="/>
         </item>
     </channel>
 </rss>
