@@ -3,6 +3,22 @@
     <channel>
         <title>Normal Mail</title>
         <item>
+            <title>1.0.46</title>
+            <description><![CDATA[<p>
+<strong>Beta release</strong> — please send feedback from Help › Send Feedback.
+</p>
+<h3>What's new</h3>
+<ul>
+<li><strong>See whether unsubscribing worked.</strong> In Subscriptions, each sender you've unsubscribed from shows how it was handled: confirmed by the sender, or finished by email or on their web page. If a sender keeps emailing you more than two days after you unsubscribe, they move back to the top marked <strong>Still emailing you</strong>, with a <strong>Try Again</strong> button.</li>
+<li><strong>A cleaner "Sending…" panel.</strong> While a message waits to send, you see a countdown ring, who it's going to, and a short preview of the message, with <strong>Undo Send</strong> next to the countdown.</li>
+</ul>]]></description>
+            <pubDate>Thu, 22 Oct 2026 18:11:34 -0400</pubDate>
+            <sparkle:version>48</sparkle:version>
+            <sparkle:shortVersionString>1.0.46</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/zeve-zz/updates/releases/download/v1.0.46/Normal.Mail.1.0.46.zip" length="7582771" type="application/octet-stream" sparkle:edSignature="lxRDgR7hfvIWTFz6qhtOMraI/AKpx9jadtRXYB7AVxS++zyaKn1/3Uh8Z60k/+K2JD5fIMvyI78RBLNU1CTJDA=="/>
+        </item>
+        <item>
             <title>1.0.45</title>
             <description><![CDATA[<p>
 <strong>Beta release</strong> — please send feedback from Help › Send Feedback.
@@ -32,21 +48,6 @@
             <sparkle:shortVersionString>1.0.44</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
             <enclosure url="https://github.com/zeve-zz/updates/releases/download/v1.0.44/Normal.Mail.1.0.44.zip" length="7543521" type="application/octet-stream" sparkle:edSignature="UV55uMGjNwGJA4g+of90A6yEG4N1YeW3cBtLVJUQShHAlHYgysuk+PMw8mOqu2mFe5+pcqS5XGmY+UqS8/nGDA=="/>
-        </item>
-        <item>
-            <title>1.0.43</title>
-            <description><![CDATA[<p>
-<strong>Beta release</strong> — please send feedback from Help › Send Feedback.
-</p>
-<h3>Bug fixes</h3>
-<ul>
-<li><strong>Fixed a crash</strong> when pressing ⌘Z (Undo) in a compose window after adding a recipient.</li>
-</ul>]]></description>
-            <pubDate>Thu, 22 Oct 2026 11:49:24 -0400</pubDate>
-            <sparkle:version>45</sparkle:version>
-            <sparkle:shortVersionString>1.0.43</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/zeve-zz/updates/releases/download/v1.0.43/Normal.Mail.1.0.43.zip" length="7542400" type="application/octet-stream" sparkle:edSignature="WPY+wN8JYM4NwKj26W3yHtbkg9I3GuerY14VbaCDMVLrqBrtYSY5zk/tpzh/qm1M/XCbhJorf5JAj1qwdlzzCQ=="/>
         </item>
     </channel>
 </rss>
