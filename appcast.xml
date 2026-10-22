@@ -3,6 +3,21 @@
     <channel>
         <title>Normal Mail</title>
         <item>
+            <title>1.0.42</title>
+            <description><![CDATA[<p>
+<strong>Beta release</strong> — please send feedback from Help › Send Feedback.
+</p>
+<h3>What's new</h3>
+<ul>
+<li><strong>Subscriptions.</strong> See every newsletter and mailing list you can unsubscribe from, one row per sender — ten emails from the same newsletter show up once, with a count. Unsubscribe in one click, or archive everything from that sender. Open it from the sidebar or View › Subscriptions (⌥⌘U).</li>
+</ul>]]></description>
+            <pubDate>Thu, 22 Oct 2026 11:02:37 -0400</pubDate>
+            <sparkle:version>44</sparkle:version>
+            <sparkle:shortVersionString>1.0.42</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/zeve-zz/updates/releases/download/v1.0.42/Normal.Mail.1.0.42.zip" length="7541933" type="application/octet-stream" sparkle:edSignature="m7/cC33z7WCFChCgIUmUkzes5z4IWNifM19GQ33McjrOpJ83nQ1v0B4t8RkXOwjTNS+p3u8rFPeO41fBDat2Bw=="/>
+        </item>
+        <item>
             <title>1.0.41</title>
             <description><![CDATA[<p>
 <strong>Beta release</strong> — please send feedback from Help › Send Feedback.
@@ -31,22 +46,6 @@
             <sparkle:shortVersionString>1.0.40</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
             <enclosure url="https://github.com/zeve-zz/updates/releases/download/v1.0.40/Normal.Mail.1.0.40.zip" length="7444018" type="application/octet-stream" sparkle:edSignature="6CyzkazEizPxs0pWngx4Q9dbpVu+oSPFjnSUX8XUSLe5fPzSjtUrw42zoXx07UrFA1D0iwQoXPw/d+TgQPnvDg=="/>
-        </item>
-        <item>
-            <title>1.0.39</title>
-            <description><![CDATA[<p>
-<strong>Beta release</strong> — please send feedback from Help › Send Feedback.
-</p>
-<h3>Improvements</h3>
-<ul>
-<li><strong>Snappier.</strong> Normal Mail does less work on every request and every email it opens.</li>
-<li><strong>Hang reports.</strong> If Normal Mail ever stops responding, it now saves a short report of what it was doing. Help › Show Hang Reports opens the folder — send the newest one along with your feedback so we can fix it.</li>
-</ul>]]></description>
-            <pubDate>Mon, 19 Oct 2026 16:13:27 -0400</pubDate>
-            <sparkle:version>41</sparkle:version>
-            <sparkle:shortVersionString>1.0.39</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/zeve-zz/updates/releases/download/v1.0.39/Normal.Mail.1.0.39.zip" length="7441900" type="application/octet-stream" sparkle:edSignature="0WHAdLvlVpXhM4/mbhL5nqO79neEQQVmoKBWdHbsQKzlx6m0qPC42vb7mpk1B9sV8kVn+juWHU/eP9DQQU4cCg=="/>
         </item>
     </channel>
 </rss>
