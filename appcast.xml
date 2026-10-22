@@ -3,6 +3,21 @@
     <channel>
         <title>Normal Mail</title>
         <item>
+            <title>1.0.43</title>
+            <description><![CDATA[<p>
+<strong>Beta release</strong> — please send feedback from Help › Send Feedback.
+</p>
+<h3>Bug fixes</h3>
+<ul>
+<li><strong>Fixed a crash</strong> when pressing ⌘Z (Undo) in a compose window after adding a recipient.</li>
+</ul>]]></description>
+            <pubDate>Thu, 22 Oct 2026 11:49:24 -0400</pubDate>
+            <sparkle:version>45</sparkle:version>
+            <sparkle:shortVersionString>1.0.43</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/zeve-zz/updates/releases/download/v1.0.43/Normal.Mail.1.0.43.zip" length="7542400" type="application/octet-stream" sparkle:edSignature="WPY+wN8JYM4NwKj26W3yHtbkg9I3GuerY14VbaCDMVLrqBrtYSY5zk/tpzh/qm1M/XCbhJorf5JAj1qwdlzzCQ=="/>
+        </item>
+        <item>
             <title>1.0.42</title>
             <description><![CDATA[<p>
 <strong>Beta release</strong> — please send feedback from Help › Send Feedback.
@@ -31,21 +46,6 @@
             <sparkle:shortVersionString>1.0.41</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
             <enclosure url="https://github.com/zeve-zz/updates/releases/download/v1.0.41/Normal.Mail.1.0.41.zip" length="7446258" type="application/octet-stream" sparkle:edSignature="9QG3DAF95IyKcPn4hZCIjLk3pEHrG2sfdyGTgC6EZwZ5TfpEVM5jb6OU+Ao3T8IXzCdmwiXjQ9L6uVC8YdJgDA=="/>
-        </item>
-        <item>
-            <title>1.0.40</title>
-            <description><![CDATA[<p>
-<strong>Beta release</strong> — please send feedback from Help › Send Feedback.
-</p>
-<h3>Bug fixes</h3>
-<ul>
-<li><strong>No more freeze when removing a recipient.</strong> Clicking a name in To or Cc and pressing Backspace could make Normal Mail stop responding. Now clicking a name selects it, and Backspace removes just that person.</li>
-</ul>]]></description>
-            <pubDate>Mon, 19 Oct 2026 16:21:00 -0400</pubDate>
-            <sparkle:version>42</sparkle:version>
-            <sparkle:shortVersionString>1.0.40</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/zeve-zz/updates/releases/download/v1.0.40/Normal.Mail.1.0.40.zip" length="7444018" type="application/octet-stream" sparkle:edSignature="6CyzkazEizPxs0pWngx4Q9dbpVu+oSPFjnSUX8XUSLe5fPzSjtUrw42zoXx07UrFA1D0iwQoXPw/d+TgQPnvDg=="/>
         </item>
     </channel>
 </rss>
