@@ -3,6 +3,21 @@
     <channel>
         <title>Normal Mail</title>
         <item>
+            <title>1.0.47</title>
+            <description><![CDATA[<p>
+<strong>Beta release</strong> — please send feedback from Help › Send Feedback.
+</p>
+<h3>What's new</h3>
+<ul>
+<li><strong>Unsubscribe in one click more often.</strong> When a sender's unsubscribe page asks you to confirm, Normal Mail now loads the page in the background and presses the confirm button for you, then checks that the page says you're unsubscribed. When a sender asks for an unsubscribe email, it's sent for you automatically. A page only opens in your browser if it needs something from you, such as typing your email address or signing in.</li>
+</ul>]]></description>
+            <pubDate>Fri, 23 Oct 2026 08:07:30 -0400</pubDate>
+            <sparkle:version>49</sparkle:version>
+            <sparkle:shortVersionString>1.0.47</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/zeve-zz/updates/releases/download/v1.0.47/Normal.Mail.1.0.47.zip" length="7600759" type="application/octet-stream" sparkle:edSignature="gwvfHL7Agep8Mw5yWAdkKMcsh9VqBRK7tlUUFuS1zVMVsHR0bLVV1oX9wcXNS74Gn9fYgjtBgVJidi+n163QCA=="/>
+        </item>
+        <item>
             <title>1.0.46</title>
             <description><![CDATA[<p>
 <strong>Beta release</strong> — please send feedback from Help › Send Feedback.
@@ -32,22 +47,6 @@
             <sparkle:shortVersionString>1.0.45</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
             <enclosure url="https://github.com/zeve-zz/updates/releases/download/v1.0.45/Normal.Mail.1.0.45.zip" length="7547336" type="application/octet-stream" sparkle:edSignature="re+w0Tjh7QbpP8Sja46/m7rlsSsDNiPxtwLhFtyiEKVAydGEKKfT7+UUs4+kydWFUamcz9oj2ilIbg0QDCPIAQ=="/>
-        </item>
-        <item>
-            <title>1.0.44</title>
-            <description><![CDATA[<p>
-<strong>Beta release</strong> — please send feedback from Help › Send Feedback.
-</p>
-<h3>Bug fixes</h3>
-<ul>
-<li><strong>Pasting into an email works again.</strong> Text and tables copied from other emails no longer paste in as invisible text in dark mode — they keep their layout and match your message's colors.</li>
-<li><strong>Undo after pasting.</strong> ⌘Z now undoes a paste.</li>
-</ul>]]></description>
-            <pubDate>Thu, 22 Oct 2026 11:53:18 -0400</pubDate>
-            <sparkle:version>46</sparkle:version>
-            <sparkle:shortVersionString>1.0.44</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/zeve-zz/updates/releases/download/v1.0.44/Normal.Mail.1.0.44.zip" length="7543521" type="application/octet-stream" sparkle:edSignature="UV55uMGjNwGJA4g+of90A6yEG4N1YeW3cBtLVJUQShHAlHYgysuk+PMw8mOqu2mFe5+pcqS5XGmY+UqS8/nGDA=="/>
         </item>
     </channel>
 </rss>
