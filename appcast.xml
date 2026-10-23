@@ -3,6 +3,21 @@
     <channel>
         <title>Normal Mail</title>
         <item>
+            <title>1.0.48</title>
+            <description><![CDATA[<p>
+<strong>Beta release</strong> — please send feedback from Help › Send Feedback.
+</p>
+<h3>Bug fixes</h3>
+<ul>
+<li>When no conversation is open, the "Sending…" card now sits neatly in the middle of the reading pane and shows who the message is going to and a preview, instead of a bare strip floating above "Select a conversation".</li>
+</ul>]]></description>
+            <pubDate>Fri, 23 Oct 2026 10:21:11 -0400</pubDate>
+            <sparkle:version>50</sparkle:version>
+            <sparkle:shortVersionString>1.0.48</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/zeve-zz/updates/releases/download/v1.0.48/Normal.Mail.1.0.48.zip" length="7604315" type="application/octet-stream" sparkle:edSignature="qJQl6ZXi/KW+a0hjVrnwxCWLbOaGiUGiZJ4t8IjHd0PiRDtLA9rNcS0KU5jP4GsYmph8t62+U6trDgHRZ1qMBA=="/>
+        </item>
+        <item>
             <title>1.0.47</title>
             <description><![CDATA[<p>
 <strong>Beta release</strong> — please send feedback from Help › Send Feedback.
@@ -32,21 +47,6 @@
             <sparkle:shortVersionString>1.0.46</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
             <enclosure url="https://github.com/zeve-zz/updates/releases/download/v1.0.46/Normal.Mail.1.0.46.zip" length="7582771" type="application/octet-stream" sparkle:edSignature="lxRDgR7hfvIWTFz6qhtOMraI/AKpx9jadtRXYB7AVxS++zyaKn1/3Uh8Z60k/+K2JD5fIMvyI78RBLNU1CTJDA=="/>
-        </item>
-        <item>
-            <title>1.0.45</title>
-            <description><![CDATA[<p>
-<strong>Beta release</strong> — please send feedback from Help › Send Feedback.
-</p>
-<h3>Improvements</h3>
-<ul>
-<li><strong>Subscriptions</strong> now hides senders you've unsubscribed from (use "Show unsubscribed" at the bottom to see them). Right after unsubscribing, <strong>Archive</strong> is highlighted — unsubscribing stops new mail, and Archive clears out what's already in your Inbox.</li>
-</ul>]]></description>
-            <pubDate>Thu, 22 Oct 2026 12:18:31 -0400</pubDate>
-            <sparkle:version>47</sparkle:version>
-            <sparkle:shortVersionString>1.0.45</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/zeve-zz/updates/releases/download/v1.0.45/Normal.Mail.1.0.45.zip" length="7547336" type="application/octet-stream" sparkle:edSignature="re+w0Tjh7QbpP8Sja46/m7rlsSsDNiPxtwLhFtyiEKVAydGEKKfT7+UUs4+kydWFUamcz9oj2ilIbg0QDCPIAQ=="/>
         </item>
     </channel>
 </rss>
