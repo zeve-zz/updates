@@ -3,6 +3,21 @@
     <channel>
         <title>Normal Mail</title>
         <item>
+            <title>1.0.65</title>
+            <description><![CDATA[<p>
+<strong>Beta release</strong> — please send feedback from Help › Send Feedback.
+</p>
+<h3>Bug fixes</h3>
+<ul>
+<li>A reply sent from a notification or the notch now joins its conversation. Before, it could start a separate new conversation in your Inbox. It also now quotes the original message like other replies do.</li>
+</ul>]]></description>
+            <pubDate>Fri, 30 Oct 2026 11:33:08 -0400</pubDate>
+            <sparkle:version>67</sparkle:version>
+            <sparkle:shortVersionString>1.0.65</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/zeve-zz/updates/releases/download/v1.0.65/Normal.Mail.1.0.65.zip" length="8007437" type="application/octet-stream" sparkle:edSignature="S1RZbf9U9CdO6EqDd5E0FfhXKjKUSUaFMS/GpJwka3nLdW9AMTFQ1LDADzKXGUCHkwfOwqlJSK44QfnAiPQvCA=="/>
+        </item>
+        <item>
             <title>1.0.64</title>
             <description><![CDATA[<p>
 <strong>Beta release</strong> — please send feedback from Help › Send Feedback.
@@ -47,22 +62,6 @@
             <sparkle:shortVersionString>1.0.63</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
             <enclosure url="https://github.com/zeve-zz/updates/releases/download/v1.0.63/Normal.Mail.1.0.63.zip" length="7929139" type="application/octet-stream" sparkle:edSignature="iZA71TBpe+TmyDI1WCG5jiAmvXpsJK+wrInocv7b/GjvYX71i12sc3LSLVgqLYDCM58UPJt4iH9wlFoedYoBCQ=="/>
-        </item>
-        <item>
-            <title>1.0.62</title>
-            <description><![CDATA[<p>
-<strong>Beta release</strong> — please send feedback from Help › Send Feedback.
-</p>
-<h3>What's new</h3>
-<ul>
-<li><strong>Forgot the attachment?</strong> If your message mentions an attachment ("I've attached…", "see the PDF") but nothing is attached, Normal Mail asks before sending. <strong>Attach File…</strong> opens the file picker.</li>
-<li><strong>Careful with Reply All.</strong> You're asked to confirm a Reply All that goes to 10 or more people. You're also warned when you Reply All to a message you only got as a Bcc, since everyone would see you were sent a copy.</li>
-</ul>]]></description>
-            <pubDate>Fri, 30 Oct 2026 11:19:35 -0400</pubDate>
-            <sparkle:version>64</sparkle:version>
-            <sparkle:shortVersionString>1.0.62</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/zeve-zz/updates/releases/download/v1.0.62/Normal.Mail.1.0.62.zip" length="7901324" type="application/octet-stream" sparkle:edSignature="J1Brlb4XWOyNZsjKxx4VgshO/LiqvHk2lbBhCd9xme79uVgnTnpSNEMoLwNWvMtOMmogLNYraa+8E1wXtbZJAA=="/>
         </item>
     </channel>
 </rss>
