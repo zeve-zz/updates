@@ -3,6 +3,28 @@
     <channel>
         <title>Normal Mail</title>
         <item>
+            <title>1.0.68</title>
+            <description><![CDATA[<p>
+<strong>Beta release</strong> — please send feedback from Help › Send Feedback.
+</p>
+<h3>What's new</h3>
+<ul>
+<li><strong>Share › Normal Mail.</strong> Share files, photos, web pages or text from any app to start a new message:</li>
+</ul>
+<p>
+  - files and images arrive as attachments;
+<br>  - a web page arrives as a link, with its title as the subject.
+</p>
+<ul>
+<li><strong>Drop files on the Dock icon</strong> to start a new message with them attached.</li>
+</ul>]]></description>
+            <pubDate>Fri, 30 Oct 2026 11:46:01 -0400</pubDate>
+            <sparkle:version>70</sparkle:version>
+            <sparkle:shortVersionString>1.0.68</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/zeve-zz/updates/releases/download/v1.0.68/Normal.Mail.1.0.68.zip" length="8211855" type="application/octet-stream" sparkle:edSignature="vN3Emhd8yy4eZmc3vT+KHnHFchxuZteGk3SUOiTQW312ACEt5GcbSVgYY+fkIENLTf69OMk/6iWQCZwfNVGVCg=="/>
+        </item>
+        <item>
             <title>1.0.67</title>
             <description><![CDATA[<p>
 <strong>Beta release</strong> — please send feedback from Help › Send Feedback.
@@ -38,21 +60,6 @@
             <sparkle:shortVersionString>1.0.66</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
             <enclosure url="https://github.com/zeve-zz/updates/releases/download/v1.0.66/Normal.Mail.1.0.66.zip" length="8057428" type="application/octet-stream" sparkle:edSignature="tN/aElYqP69L4AnLnlKyDPwofaEWyOcbhc7uEVr6CYV4828AsNXN1axy0QmCkEstMMYZBUWil5NKYKSOI75BBw=="/>
-        </item>
-        <item>
-            <title>1.0.65</title>
-            <description><![CDATA[<p>
-<strong>Beta release</strong> — please send feedback from Help › Send Feedback.
-</p>
-<h3>Bug fixes</h3>
-<ul>
-<li>A reply sent from a notification or the notch now joins its conversation. Before, it could start a separate new conversation in your Inbox. It also now quotes the original message like other replies do.</li>
-</ul>]]></description>
-            <pubDate>Fri, 30 Oct 2026 11:33:08 -0400</pubDate>
-            <sparkle:version>67</sparkle:version>
-            <sparkle:shortVersionString>1.0.65</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/zeve-zz/updates/releases/download/v1.0.65/Normal.Mail.1.0.65.zip" length="8007437" type="application/octet-stream" sparkle:edSignature="S1RZbf9U9CdO6EqDd5E0FfhXKjKUSUaFMS/GpJwka3nLdW9AMTFQ1LDADzKXGUCHkwfOwqlJSK44QfnAiPQvCA=="/>
         </item>
     </channel>
 </rss>
