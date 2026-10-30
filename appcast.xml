@@ -3,6 +3,26 @@
     <channel>
         <title>Normal Mail</title>
         <item>
+            <title>1.0.67</title>
+            <description><![CDATA[<p>
+<strong>Beta release</strong> — please send feedback from Help › Send Feedback.
+</p>
+<h3>What's new</h3>
+<ul>
+<li><strong>Attachments.</strong> View › Attachments (⌥⌘A, or the sidebar) lists every file in your mail across all accounts, newest first. You can:</li>
+</ul>
+<p>
+  - filter by <strong>PDFs</strong>, <strong>Images</strong> or <strong>Documents</strong>, or type a name or sender;
+<br>  - double-click a file to open it;
+<br>  - right-click it to <strong>Save As…</strong> or <strong>Show Conversation</strong>.
+</p>]]></description>
+            <pubDate>Fri, 30 Oct 2026 11:41:22 -0400</pubDate>
+            <sparkle:version>69</sparkle:version>
+            <sparkle:shortVersionString>1.0.67</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/zeve-zz/updates/releases/download/v1.0.67/Normal.Mail.1.0.67.zip" length="8140720" type="application/octet-stream" sparkle:edSignature="aIKVEao+pwaSQ5JKVdT6zQyKObCthjPkzM0FLGWMLJxn/PCriJxJVNsPGUDkaeGJdxy17C2Q35x6FwUy+N6FDg=="/>
+        </item>
+        <item>
             <title>1.0.66</title>
             <description><![CDATA[<p>
 <strong>Beta release</strong> — please send feedback from Help › Send Feedback.
@@ -33,28 +53,6 @@
             <sparkle:shortVersionString>1.0.65</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
             <enclosure url="https://github.com/zeve-zz/updates/releases/download/v1.0.65/Normal.Mail.1.0.65.zip" length="8007437" type="application/octet-stream" sparkle:edSignature="S1RZbf9U9CdO6EqDd5E0FfhXKjKUSUaFMS/GpJwka3nLdW9AMTFQ1LDADzKXGUCHkwfOwqlJSK44QfnAiPQvCA=="/>
-        </item>
-        <item>
-            <title>1.0.64</title>
-            <description><![CDATA[<p>
-<strong>Beta release</strong> — please send feedback from Help › Send Feedback.
-</p>
-<h3>What's new</h3>
-<ul>
-<li><strong>New senders.</strong> Email from someone you've never written to, and who hasn't been writing to you for long, gets a <strong>New</strong> tag. The top of the Inbox shows "3 new senders · Review", which opens <strong>View › New Senders</strong>. From there you can:</li>
-</ul>
-<p>
-  - <strong>Allow</strong> a sender, which treats them like everyone else from then on;
-<br>  - <strong>Archive</strong> their conversations.
-</p>
-<ul>
-<li><strong>Optional: hide new senders from the Inbox.</strong> Turn this on in Settings › General › Privacy and first-time senders wait in New Senders until you allow them. It's off by default, and nothing is archived or deleted in Gmail.</li>
-</ul>]]></description>
-            <pubDate>Fri, 30 Oct 2026 11:29:44 -0400</pubDate>
-            <sparkle:version>66</sparkle:version>
-            <sparkle:shortVersionString>1.0.64</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/zeve-zz/updates/releases/download/v1.0.64/Normal.Mail.1.0.64.zip" length="8006763" type="application/octet-stream" sparkle:edSignature="YwihdAd0qTvf0Qpv4VCChQfE3svNGou6uFhcPcNZdoUBY26SA6KrYIhR2zPaA252jVCH/LrbIocdL1bN/XTaDQ=="/>
         </item>
     </channel>
 </rss>
