@@ -3,6 +3,21 @@
     <channel>
         <title>Normal Mail</title>
         <item>
+            <title>1.0.60</title>
+            <description><![CDATA[<p>
+<strong>Beta release</strong> — please send feedback from Help › Send Feedback.
+</p>
+<h3>Improvements</h3>
+<ul>
+<li>New mail at the notch now slides away after 4 seconds instead of 6. It still stays while your pointer is over it.</li>
+</ul>]]></description>
+            <pubDate>Fri, 30 Oct 2026 10:43:41 -0400</pubDate>
+            <sparkle:version>62</sparkle:version>
+            <sparkle:shortVersionString>1.0.60</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/zeve-zz/updates/releases/download/v1.0.60/Normal.Mail.1.0.60.zip" length="7841186" type="application/octet-stream" sparkle:edSignature="CTmrsJXFbIKoCSmnhr8ZRx9VE1fnD+Au8YknbWq0Ah0dErdmd3vTb27lf0+KPCtBD1O10Hr92GhXsuAomUOmAw=="/>
+        </item>
+        <item>
             <title>1.0.59</title>
             <description><![CDATA[<p>
 <strong>Beta release</strong> — please send feedback from Help › Send Feedback.
@@ -39,21 +54,6 @@
             <sparkle:shortVersionString>1.0.58</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
             <enclosure url="https://github.com/zeve-zz/updates/releases/download/v1.0.58/Normal.Mail.1.0.58.zip" length="7788621" type="application/octet-stream" sparkle:edSignature="vazl/30b0dXHB9GL5Mtz+UMjYP7DlfWezdLgJsYleOvGY4iC5twsxC0s5MckrCvEtkGErUn+0r4y5XzSgmBaDA=="/>
-        </item>
-        <item>
-            <title>1.0.57</title>
-            <description><![CDATA[<p>
-<strong>Beta release</strong> — please send feedback from Help › Send Feedback.
-</p>
-<h3>Bug fixes</h3>
-<ul>
-<li>In "What's New", <strong>Show earlier updates</strong> is now a full-width button that's easy to click. Before, only a tiny arrow responded.</li>
-</ul>]]></description>
-            <pubDate>Fri, 30 Oct 2026 10:17:58 -0400</pubDate>
-            <sparkle:version>59</sparkle:version>
-            <sparkle:shortVersionString>1.0.57</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/zeve-zz/updates/releases/download/v1.0.57/Normal.Mail.1.0.57.zip" length="7766000" type="application/octet-stream" sparkle:edSignature="aJ7XXSEFWlIEoi27HDip8GM8iZqz4GdGjwMAzEJO5IbcIjjd7o90DoZ2MdEJMFcxfWg9/YZoC8jcWV4YsNirCg=="/>
         </item>
     </channel>
 </rss>
