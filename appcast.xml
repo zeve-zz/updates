@@ -3,6 +3,21 @@
     <channel>
         <title>Normal Mail</title>
         <item>
+            <title>1.0.56</title>
+            <description><![CDATA[<p>
+<strong>Beta release</strong> — please send feedback from Help › Send Feedback.
+</p>
+<h3>Bug fixes</h3>
+<ul>
+<li>With two displays, the "What's New" window now opens over the mail window on the same display, instead of sometimes on the other screen.</li>
+</ul>]]></description>
+            <pubDate>Fri, 30 Oct 2026 10:14:50 -0400</pubDate>
+            <sparkle:version>58</sparkle:version>
+            <sparkle:shortVersionString>1.0.56</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/zeve-zz/updates/releases/download/v1.0.56/Normal.Mail.1.0.56.zip" length="7757759" type="application/octet-stream" sparkle:edSignature="vG5Hsd8+4eNEu6CQvQKg/5BHNuRjZVsbH3q31o7XU8Ia5zruAO+g29rU6J+sm07osd/WKksKW3SmzkZ694bWBA=="/>
+        </item>
+        <item>
             <title>1.0.55</title>
             <description><![CDATA[<p>
 <strong>Beta release</strong> — please send feedback from Help › Send Feedback.
@@ -33,24 +48,6 @@
             <sparkle:shortVersionString>1.0.54</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
             <enclosure url="https://github.com/zeve-zz/updates/releases/download/v1.0.54/Normal.Mail.1.0.54.zip" length="7695067" type="application/octet-stream" sparkle:edSignature="8mNtogx+fgK0Wk6WKNpomwY3h1asitieOh9HAOQhRygnYPjkDShk4Lr6dROL+/gMMASa0sL34YqBg3LU1o4BBA=="/>
-        </item>
-        <item>
-            <title>1.0.53</title>
-            <description><![CDATA[<p>
-<strong>Beta release</strong> — please send feedback from Help › Send Feedback.
-</p>
-<h3>What's new</h3>
-<ul>
-<li><strong>Pin to Top.</strong> Right-click a conversation and choose <strong>Pin to Top</strong> to keep it above everything else, or press ⇧⌘P. Pinned conversations show an orange pin. Pins are saved on this Mac.</li>
-<li><strong>Mark All as Read.</strong> Message › Mark All as Read marks everything unread in the list you're viewing as read, including messages that haven't loaded yet. In All Inboxes, that covers every account.</li>
-<li><strong>Compact message list.</strong> View › Compact Message List shows just the sender and subject on each row, so more fits on screen.</li>
-<li><strong>Unread dot.</strong> Unread conversations now have a blue dot. Turn it off under View › Show Unread Dot.</li>
-</ul>]]></description>
-            <pubDate>Fri, 30 Oct 2026 09:15:28 -0400</pubDate>
-            <sparkle:version>55</sparkle:version>
-            <sparkle:shortVersionString>1.0.53</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/zeve-zz/updates/releases/download/v1.0.53/Normal.Mail.1.0.53.zip" length="7673320" type="application/octet-stream" sparkle:edSignature="7RmdIrDr3knCI3HR1fjuvwvODqfKrmpAgSCFbeEDLEMeKCrc10AOPJDdk/Dc50iv32MMbQss3tShRocGcXY3Bw=="/>
         </item>
     </channel>
 </rss>
