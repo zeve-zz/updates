@@ -3,6 +3,29 @@
     <channel>
         <title>Normal Mail</title>
         <item>
+            <title>1.0.58</title>
+            <description><![CDATA[<p>
+<strong>Beta release</strong> — please send feedback from Help › Send Feedback.
+</p>
+<h3>What's new</h3>
+<ul>
+<li><strong>Escape closes the message you're writing.</strong> If there's anything in it, you're asked whether to keep the draft.</li>
+<li><strong>Paste files and screenshots.</strong> Pressing ⌘V on files copied in Finder, or on a screenshot copied to the clipboard, now adds them as attachments.</li>
+<li><strong>⌘Z undoes more.</strong> Deleting a single message from a conversation and adding or removing a label can now be undone.</li>
+</ul>
+<h3>Bug fixes</h3>
+<ul>
+<li>Very long names no longer run past the edge of the To and Cc fields. They end in "…" instead.</li>
+<li>In the search field or the reply box, ⌘Z now undoes your typing instead of your last archive or delete.</li>
+<li>If your name contains a comma, it's now formatted correctly when you send.</li>
+</ul>]]></description>
+            <pubDate>Fri, 30 Oct 2026 10:34:51 -0400</pubDate>
+            <sparkle:version>60</sparkle:version>
+            <sparkle:shortVersionString>1.0.58</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/zeve-zz/updates/releases/download/v1.0.58/Normal.Mail.1.0.58.zip" length="7788621" type="application/octet-stream" sparkle:edSignature="vazl/30b0dXHB9GL5Mtz+UMjYP7DlfWezdLgJsYleOvGY4iC5twsxC0s5MckrCvEtkGErUn+0r4y5XzSgmBaDA=="/>
+        </item>
+        <item>
             <title>1.0.57</title>
             <description><![CDATA[<p>
 <strong>Beta release</strong> — please send feedback from Help › Send Feedback.
@@ -31,22 +54,6 @@
             <sparkle:shortVersionString>1.0.56</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
             <enclosure url="https://github.com/zeve-zz/updates/releases/download/v1.0.56/Normal.Mail.1.0.56.zip" length="7757759" type="application/octet-stream" sparkle:edSignature="vG5Hsd8+4eNEu6CQvQKg/5BHNuRjZVsbH3q31o7XU8Ia5zruAO+g29rU6J+sm07osd/WKksKW3SmzkZ694bWBA=="/>
-        </item>
-        <item>
-            <title>1.0.55</title>
-            <description><![CDATA[<p>
-<strong>Beta release</strong> — please send feedback from Help › Send Feedback.
-</p>
-<h3>What's new</h3>
-<ul>
-<li><strong>Quick reply.</strong> Every conversation now has a reply box at the bottom. Type and press ⌘Return or <strong>Send</strong>. You still get the few seconds to undo, and undoing opens your reply in a full compose window. Switch between Reply and Reply All with the arrow button on the left, or move to a full compose window with the expand button.</li>
-<li><strong>Reply from notifications.</strong> New-mail notifications now have <strong>Reply</strong> and <strong>Mark as Read</strong> buttons, so you can answer without opening Normal Mail.</li>
-</ul>]]></description>
-            <pubDate>Fri, 30 Oct 2026 09:26:23 -0400</pubDate>
-            <sparkle:version>57</sparkle:version>
-            <sparkle:shortVersionString>1.0.55</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/zeve-zz/updates/releases/download/v1.0.55/Normal.Mail.1.0.55.zip" length="7755684" type="application/octet-stream" sparkle:edSignature="JweWJRmjrjk8LYtblQ9QPOILnNolVT0KJmXquGzR/UFzXd96nMYFM24XHBrujul+RQHgcB/JE+UFWRnIePM+Aw=="/>
         </item>
     </channel>
 </rss>
