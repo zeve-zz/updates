@@ -3,6 +3,22 @@
     <channel>
         <title>Normal Mail</title>
         <item>
+            <title>1.0.55</title>
+            <description><![CDATA[<p>
+<strong>Beta release</strong> — please send feedback from Help › Send Feedback.
+</p>
+<h3>What's new</h3>
+<ul>
+<li><strong>Quick reply.</strong> Every conversation now has a reply box at the bottom. Type and press ⌘Return or <strong>Send</strong>. You still get the few seconds to undo, and undoing opens your reply in a full compose window. Switch between Reply and Reply All with the arrow button on the left, or move to a full compose window with the expand button.</li>
+<li><strong>Reply from notifications.</strong> New-mail notifications now have <strong>Reply</strong> and <strong>Mark as Read</strong> buttons, so you can answer without opening Normal Mail.</li>
+</ul>]]></description>
+            <pubDate>Fri, 30 Oct 2026 09:26:23 -0400</pubDate>
+            <sparkle:version>57</sparkle:version>
+            <sparkle:shortVersionString>1.0.55</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/zeve-zz/updates/releases/download/v1.0.55/Normal.Mail.1.0.55.zip" length="7755684" type="application/octet-stream" sparkle:edSignature="JweWJRmjrjk8LYtblQ9QPOILnNolVT0KJmXquGzR/UFzXd96nMYFM24XHBrujul+RQHgcB/JE+UFWRnIePM+Aw=="/>
+        </item>
+        <item>
             <title>1.0.54</title>
             <description><![CDATA[<p>
 <strong>Beta release</strong> — please send feedback from Help › Send Feedback.
@@ -35,26 +51,6 @@
             <sparkle:shortVersionString>1.0.53</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
             <enclosure url="https://github.com/zeve-zz/updates/releases/download/v1.0.53/Normal.Mail.1.0.53.zip" length="7673320" type="application/octet-stream" sparkle:edSignature="7RmdIrDr3knCI3HR1fjuvwvODqfKrmpAgSCFbeEDLEMeKCrc10AOPJDdk/Dc50iv32MMbQss3tShRocGcXY3Bw=="/>
-        </item>
-        <item>
-            <title>1.0.52</title>
-            <description><![CDATA[<p>
-<strong>Beta release</strong> — please send feedback from Help › Send Feedback.
-</p>
-<h3>What's new</h3>
-<ul>
-<li><strong>⌘Z undoes more.</strong> Star, mark as read or unread, Report Spam, Not Spam, and dragging conversations onto a label, Trash or Spam can all be undone, like Archive and Delete already could.</li>
-<li><strong>⌘L for Send Later</strong> while writing a message.</li>
-</ul>
-<h3>Bug fixes</h3>
-<ul>
-<li>Quitting Normal Mail during the Undo Send countdown no longer loses the message. It's sent right away before the app quits.</li>
-</ul>]]></description>
-            <pubDate>Fri, 30 Oct 2026 09:08:19 -0400</pubDate>
-            <sparkle:version>54</sparkle:version>
-            <sparkle:shortVersionString>1.0.52</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/zeve-zz/updates/releases/download/v1.0.52/Normal.Mail.1.0.52.zip" length="7638559" type="application/octet-stream" sparkle:edSignature="bANUwFzQ0+BCifwFNFYovcLknGjXtRjvWyNXRUXVJm4EeiwTUzZy8GWX02RPH6QG2OI9rOXcXexqXPYtBgouDg=="/>
         </item>
     </channel>
 </rss>
