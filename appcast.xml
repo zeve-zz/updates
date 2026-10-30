@@ -3,6 +3,30 @@
     <channel>
         <title>Normal Mail</title>
         <item>
+            <title>1.0.63</title>
+            <description><![CDATA[<p>
+<strong>Beta release</strong> — please send feedback from Help › Send Feedback.
+</p>
+<h3>What's new</h3>
+<ul>
+<li><strong>Warnings for fake senders.</strong> A red banner appears when an email:</li>
+</ul>
+<p>
+  - claims to be from a company like PayPal, Apple or your bank but comes from somewhere else;
+<br>  - shows one address in the sender's name but was sent from another;
+<br>  - couldn't be verified by Gmail.
+</p>
+<ul>
+<li><strong>Links that lie.</strong> If a link shows one web address but would open a different site, you're asked before it opens.</li>
+<li><strong>Tracking pixels removed.</strong> Hidden images that tell senders when and where you opened their email are now removed, even when you allow images. Messages show "Blocked 2 trackers" when this happens.</li>
+</ul>]]></description>
+            <pubDate>Fri, 30 Oct 2026 11:24:55 -0400</pubDate>
+            <sparkle:version>65</sparkle:version>
+            <sparkle:shortVersionString>1.0.63</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/zeve-zz/updates/releases/download/v1.0.63/Normal.Mail.1.0.63.zip" length="7929139" type="application/octet-stream" sparkle:edSignature="iZA71TBpe+TmyDI1WCG5jiAmvXpsJK+wrInocv7b/GjvYX71i12sc3LSLVgqLYDCM58UPJt4iH9wlFoedYoBCQ=="/>
+        </item>
+        <item>
             <title>1.0.62</title>
             <description><![CDATA[<p>
 <strong>Beta release</strong> — please send feedback from Help › Send Feedback.
@@ -33,21 +57,6 @@
             <sparkle:shortVersionString>1.0.61</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
             <enclosure url="https://github.com/zeve-zz/updates/releases/download/v1.0.61/Normal.Mail.1.0.61.zip" length="7890233" type="application/octet-stream" sparkle:edSignature="D4vNqFIEJD3GRR7EJpudzXDxgNQ/XsqgAJyC9Y/mqDpVUl+jww3uuosxbFfr0XE4AN1Llj0N2zhFsoQb5idPDQ=="/>
-        </item>
-        <item>
-            <title>1.0.60</title>
-            <description><![CDATA[<p>
-<strong>Beta release</strong> — please send feedback from Help › Send Feedback.
-</p>
-<h3>Improvements</h3>
-<ul>
-<li>New mail at the notch now slides away after 4 seconds instead of 6. It still stays while your pointer is over it.</li>
-</ul>]]></description>
-            <pubDate>Fri, 30 Oct 2026 10:43:41 -0400</pubDate>
-            <sparkle:version>62</sparkle:version>
-            <sparkle:shortVersionString>1.0.60</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/zeve-zz/updates/releases/download/v1.0.60/Normal.Mail.1.0.60.zip" length="7841186" type="application/octet-stream" sparkle:edSignature="CTmrsJXFbIKoCSmnhr8ZRx9VE1fnD+Au8YknbWq0Ah0dErdmd3vTb27lf0+KPCtBD1O10Hr92GhXsuAomUOmAw=="/>
         </item>
     </channel>
 </rss>
