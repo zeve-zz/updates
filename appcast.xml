@@ -3,6 +3,22 @@
     <channel>
         <title>Normal Mail</title>
         <item>
+            <title>1.0.54</title>
+            <description><![CDATA[<p>
+<strong>Beta release</strong> — please send feedback from Help › Send Feedback.
+</p>
+<h3>What's new</h3>
+<ul>
+<li><strong>⌘K searches everything.</strong> Press ⌘K (or ⌥⌘F) to search all mail in every account, not just the list you're viewing. ⌘F and / still search the current list. When you clear the search, you're back where you were. While you're writing a message, ⌘K still inserts a link.</li>
+<li><strong>The subject stays in view.</strong> In a long conversation, a slim bar with the subject stays at the top as you scroll. Click it to jump back to the top.</li>
+</ul>]]></description>
+            <pubDate>Fri, 30 Oct 2026 09:20:11 -0400</pubDate>
+            <sparkle:version>56</sparkle:version>
+            <sparkle:shortVersionString>1.0.54</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/zeve-zz/updates/releases/download/v1.0.54/Normal.Mail.1.0.54.zip" length="7695067" type="application/octet-stream" sparkle:edSignature="8mNtogx+fgK0Wk6WKNpomwY3h1asitieOh9HAOQhRygnYPjkDShk4Lr6dROL+/gMMASa0sL34YqBg3LU1o4BBA=="/>
+        </item>
+        <item>
             <title>1.0.53</title>
             <description><![CDATA[<p>
 <strong>Beta release</strong> — please send feedback from Help › Send Feedback.
@@ -39,21 +55,6 @@
             <sparkle:shortVersionString>1.0.52</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
             <enclosure url="https://github.com/zeve-zz/updates/releases/download/v1.0.52/Normal.Mail.1.0.52.zip" length="7638559" type="application/octet-stream" sparkle:edSignature="bANUwFzQ0+BCifwFNFYovcLknGjXtRjvWyNXRUXVJm4EeiwTUzZy8GWX02RPH6QG2OI9rOXcXexqXPYtBgouDg=="/>
-        </item>
-        <item>
-            <title>1.0.51</title>
-            <description><![CDATA[<p>
-<strong>Beta release</strong> — please send feedback from Help › Send Feedback.
-</p>
-<h3>What's new</h3>
-<ul>
-<li><strong>Send with ⌘Return.</strong> The shortcut is now listed in the Message menu as <strong>Send</strong>, so it's easy to find. Press ⌘Return in any message you're writing to send it. You still get the usual few seconds to undo.</li>
-</ul>]]></description>
-            <pubDate>Fri, 30 Oct 2026 08:55:59 -0400</pubDate>
-            <sparkle:version>53</sparkle:version>
-            <sparkle:shortVersionString>1.0.51</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/zeve-zz/updates/releases/download/v1.0.51/Normal.Mail.1.0.51.zip" length="7628306" type="application/octet-stream" sparkle:edSignature="MIdiV6sifUzjVUGta2EbL9LqDLLp3RhSVLSkGqkDGy/A0MevXZqOBX/T0+bATkRbCjt15YZgslrBxNErUdHFAA=="/>
         </item>
     </channel>
 </rss>
