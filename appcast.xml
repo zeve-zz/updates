@@ -3,6 +3,22 @@
     <channel>
         <title>Normal Mail</title>
         <item>
+            <title>1.0.62</title>
+            <description><![CDATA[<p>
+<strong>Beta release</strong> — please send feedback from Help › Send Feedback.
+</p>
+<h3>What's new</h3>
+<ul>
+<li><strong>Forgot the attachment?</strong> If your message mentions an attachment ("I've attached…", "see the PDF") but nothing is attached, Normal Mail asks before sending. <strong>Attach File…</strong> opens the file picker.</li>
+<li><strong>Careful with Reply All.</strong> You're asked to confirm a Reply All that goes to 10 or more people. You're also warned when you Reply All to a message you only got as a Bcc, since everyone would see you were sent a copy.</li>
+</ul>]]></description>
+            <pubDate>Fri, 30 Oct 2026 11:19:35 -0400</pubDate>
+            <sparkle:version>64</sparkle:version>
+            <sparkle:shortVersionString>1.0.62</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/zeve-zz/updates/releases/download/v1.0.62/Normal.Mail.1.0.62.zip" length="7901324" type="application/octet-stream" sparkle:edSignature="J1Brlb4XWOyNZsjKxx4VgshO/LiqvHk2lbBhCd9xme79uVgnTnpSNEMoLwNWvMtOMmogLNYraa+8E1wXtbZJAA=="/>
+        </item>
+        <item>
             <title>1.0.61</title>
             <description><![CDATA[<p>
 <strong>Beta release</strong> — please send feedback from Help › Send Feedback.
@@ -32,21 +48,6 @@
             <sparkle:shortVersionString>1.0.60</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
             <enclosure url="https://github.com/zeve-zz/updates/releases/download/v1.0.60/Normal.Mail.1.0.60.zip" length="7841186" type="application/octet-stream" sparkle:edSignature="CTmrsJXFbIKoCSmnhr8ZRx9VE1fnD+Au8YknbWq0Ah0dErdmd3vTb27lf0+KPCtBD1O10Hr92GhXsuAomUOmAw=="/>
-        </item>
-        <item>
-            <title>1.0.59</title>
-            <description><![CDATA[<p>
-<strong>Beta release</strong> — please send feedback from Help › Send Feedback.
-</p>
-<h3>What's new</h3>
-<ul>
-<li><strong>New mail at the notch (experimental).</strong> Turn on <strong>Show new mail at the notch</strong> in Settings › General › Notifications. New mail then drops down from the top of the screen instead of showing as a macOS notification. It shows the sender, subject and a preview, and any sign-in code is one click to copy. Click the message to open it. It slides away after a few seconds, or stays while your pointer is over it. Use <strong>Try It</strong> to see a sample.</li>
-</ul>]]></description>
-            <pubDate>Fri, 30 Oct 2026 10:39:00 -0400</pubDate>
-            <sparkle:version>61</sparkle:version>
-            <sparkle:shortVersionString>1.0.59</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/zeve-zz/updates/releases/download/v1.0.59/Normal.Mail.1.0.59.zip" length="7840714" type="application/octet-stream" sparkle:edSignature="ubg2xvzTMz2D3JimkHQrcLG2wu2/i4p2dh/UDx1bwQIdHvVxjoA2jQ/2itOEOFTblUFOVGFr4ArfyjG9H1BjBg=="/>
         </item>
     </channel>
 </rss>
