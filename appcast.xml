@@ -3,6 +3,21 @@
     <channel>
         <title>Normal Mail</title>
         <item>
+            <title>1.0.59</title>
+            <description><![CDATA[<p>
+<strong>Beta release</strong> — please send feedback from Help › Send Feedback.
+</p>
+<h3>What's new</h3>
+<ul>
+<li><strong>New mail at the notch (experimental).</strong> Turn on <strong>Show new mail at the notch</strong> in Settings › General › Notifications. New mail then drops down from the top of the screen instead of showing as a macOS notification. It shows the sender, subject and a preview, and any sign-in code is one click to copy. Click the message to open it. It slides away after a few seconds, or stays while your pointer is over it. Use <strong>Try It</strong> to see a sample.</li>
+</ul>]]></description>
+            <pubDate>Fri, 30 Oct 2026 10:39:00 -0400</pubDate>
+            <sparkle:version>61</sparkle:version>
+            <sparkle:shortVersionString>1.0.59</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/zeve-zz/updates/releases/download/v1.0.59/Normal.Mail.1.0.59.zip" length="7840714" type="application/octet-stream" sparkle:edSignature="ubg2xvzTMz2D3JimkHQrcLG2wu2/i4p2dh/UDx1bwQIdHvVxjoA2jQ/2itOEOFTblUFOVGFr4ArfyjG9H1BjBg=="/>
+        </item>
+        <item>
             <title>1.0.58</title>
             <description><![CDATA[<p>
 <strong>Beta release</strong> — please send feedback from Help › Send Feedback.
@@ -39,21 +54,6 @@
             <sparkle:shortVersionString>1.0.57</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
             <enclosure url="https://github.com/zeve-zz/updates/releases/download/v1.0.57/Normal.Mail.1.0.57.zip" length="7766000" type="application/octet-stream" sparkle:edSignature="aJ7XXSEFWlIEoi27HDip8GM8iZqz4GdGjwMAzEJO5IbcIjjd7o90DoZ2MdEJMFcxfWg9/YZoC8jcWV4YsNirCg=="/>
-        </item>
-        <item>
-            <title>1.0.56</title>
-            <description><![CDATA[<p>
-<strong>Beta release</strong> — please send feedback from Help › Send Feedback.
-</p>
-<h3>Bug fixes</h3>
-<ul>
-<li>With two displays, the "What's New" window now opens over the mail window on the same display, instead of sometimes on the other screen.</li>
-</ul>]]></description>
-            <pubDate>Fri, 30 Oct 2026 10:14:50 -0400</pubDate>
-            <sparkle:version>58</sparkle:version>
-            <sparkle:shortVersionString>1.0.56</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/zeve-zz/updates/releases/download/v1.0.56/Normal.Mail.1.0.56.zip" length="7757759" type="application/octet-stream" sparkle:edSignature="vG5Hsd8+4eNEu6CQvQKg/5BHNuRjZVsbH3q31o7XU8Ia5zruAO+g29rU6J+sm07osd/WKksKW3SmzkZ694bWBA=="/>
         </item>
     </channel>
 </rss>
