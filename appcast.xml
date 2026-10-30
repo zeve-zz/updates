@@ -3,6 +3,21 @@
     <channel>
         <title>Normal Mail</title>
         <item>
+            <title>1.0.70</title>
+            <description><![CDATA[<p>
+<strong>Beta release</strong> — please send feedback from Help › Send Feedback.
+</p>
+<h3>What's new</h3>
+<ul>
+<li><strong>Package tracking.</strong> Shipping emails with a UPS, FedEx, USPS, DHL or Amazon tracking number now show it at the top, with <strong>Track</strong> and <strong>Copy</strong> buttons. The number is found on your Mac. The carrier is only contacted if you click Track.</li>
+</ul>]]></description>
+            <pubDate>Fri, 30 Oct 2026 14:53:20 -0400</pubDate>
+            <sparkle:version>72</sparkle:version>
+            <sparkle:shortVersionString>1.0.70</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/zeve-zz/updates/releases/download/v1.0.70/Normal.Mail.1.0.70.zip" length="8231795" type="application/octet-stream" sparkle:edSignature="fsTjeQQbjwHi/RgwIjKiG27L//C884jBhDAUIFIGWsFAND4+QbNdki8NWr/Xz2Jgmi9KYy3k7DvM/ObO71WyBw=="/>
+        </item>
+        <item>
             <title>1.0.69</title>
             <description><![CDATA[<p>
 <strong>Beta release</strong> — please send feedback from Help › Send Feedback.
@@ -38,26 +53,6 @@
             <sparkle:shortVersionString>1.0.68</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
             <enclosure url="https://github.com/zeve-zz/updates/releases/download/v1.0.68/Normal.Mail.1.0.68.zip" length="8211855" type="application/octet-stream" sparkle:edSignature="vN3Emhd8yy4eZmc3vT+KHnHFchxuZteGk3SUOiTQW312ACEt5GcbSVgYY+fkIENLTf69OMk/6iWQCZwfNVGVCg=="/>
-        </item>
-        <item>
-            <title>1.0.67</title>
-            <description><![CDATA[<p>
-<strong>Beta release</strong> — please send feedback from Help › Send Feedback.
-</p>
-<h3>What's new</h3>
-<ul>
-<li><strong>Attachments.</strong> View › Attachments (⌥⌘A, or the sidebar) lists every file in your mail across all accounts, newest first. You can:</li>
-</ul>
-<p>
-  - filter by <strong>PDFs</strong>, <strong>Images</strong> or <strong>Documents</strong>, or type a name or sender;
-<br>  - double-click a file to open it;
-<br>  - right-click it to <strong>Save As…</strong> or <strong>Show Conversation</strong>.
-</p>]]></description>
-            <pubDate>Fri, 30 Oct 2026 11:41:22 -0400</pubDate>
-            <sparkle:version>69</sparkle:version>
-            <sparkle:shortVersionString>1.0.67</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/zeve-zz/updates/releases/download/v1.0.67/Normal.Mail.1.0.67.zip" length="8140720" type="application/octet-stream" sparkle:edSignature="aIKVEao+pwaSQ5JKVdT6zQyKObCthjPkzM0FLGWMLJxn/PCriJxJVNsPGUDkaeGJdxy17C2Q35x6FwUy+N6FDg=="/>
         </item>
     </channel>
 </rss>
