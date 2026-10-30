@@ -3,6 +3,28 @@
     <channel>
         <title>Normal Mail</title>
         <item>
+            <title>1.0.64</title>
+            <description><![CDATA[<p>
+<strong>Beta release</strong> — please send feedback from Help › Send Feedback.
+</p>
+<h3>What's new</h3>
+<ul>
+<li><strong>New senders.</strong> Email from someone you've never written to, and who hasn't been writing to you for long, gets a <strong>New</strong> tag. The top of the Inbox shows "3 new senders · Review", which opens <strong>View › New Senders</strong>. From there you can:</li>
+</ul>
+<p>
+  - <strong>Allow</strong> a sender, which treats them like everyone else from then on;
+<br>  - <strong>Archive</strong> their conversations.
+</p>
+<ul>
+<li><strong>Optional: hide new senders from the Inbox.</strong> Turn this on in Settings › General › Privacy and first-time senders wait in New Senders until you allow them. It's off by default, and nothing is archived or deleted in Gmail.</li>
+</ul>]]></description>
+            <pubDate>Fri, 30 Oct 2026 11:29:44 -0400</pubDate>
+            <sparkle:version>66</sparkle:version>
+            <sparkle:shortVersionString>1.0.64</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/zeve-zz/updates/releases/download/v1.0.64/Normal.Mail.1.0.64.zip" length="8006763" type="application/octet-stream" sparkle:edSignature="YwihdAd0qTvf0Qpv4VCChQfE3svNGou6uFhcPcNZdoUBY26SA6KrYIhR2zPaA252jVCH/LrbIocdL1bN/XTaDQ=="/>
+        </item>
+        <item>
             <title>1.0.63</title>
             <description><![CDATA[<p>
 <strong>Beta release</strong> — please send feedback from Help › Send Feedback.
@@ -41,22 +63,6 @@
             <sparkle:shortVersionString>1.0.62</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
             <enclosure url="https://github.com/zeve-zz/updates/releases/download/v1.0.62/Normal.Mail.1.0.62.zip" length="7901324" type="application/octet-stream" sparkle:edSignature="J1Brlb4XWOyNZsjKxx4VgshO/LiqvHk2lbBhCd9xme79uVgnTnpSNEMoLwNWvMtOMmogLNYraa+8E1wXtbZJAA=="/>
-        </item>
-        <item>
-            <title>1.0.61</title>
-            <description><![CDATA[<p>
-<strong>Beta release</strong> — please send feedback from Help › Send Feedback.
-</p>
-<h3>What's new</h3>
-<ul>
-<li><strong>Translate.</strong> Messages in a language you don't read now show a <strong>Translate</strong> button. The translation happens on your Mac, so nothing is sent anywhere. Quoted earlier messages are left out, and <strong>Show Original</strong> switches back. The first time you translate from a language, macOS may ask to download it.</li>
-<li><strong>Reply from the notch.</strong> New mail at the notch now has a reply button. Type, press Return, and it's sent with the usual few seconds to undo. Escape cancels.</li>
-</ul>]]></description>
-            <pubDate>Fri, 30 Oct 2026 11:08:26 -0400</pubDate>
-            <sparkle:version>63</sparkle:version>
-            <sparkle:shortVersionString>1.0.61</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/zeve-zz/updates/releases/download/v1.0.61/Normal.Mail.1.0.61.zip" length="7890233" type="application/octet-stream" sparkle:edSignature="D4vNqFIEJD3GRR7EJpudzXDxgNQ/XsqgAJyC9Y/mqDpVUl+jww3uuosxbFfr0XE4AN1Llj0N2zhFsoQb5idPDQ=="/>
         </item>
     </channel>
 </rss>
