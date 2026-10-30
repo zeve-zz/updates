@@ -3,6 +3,22 @@
     <channel>
         <title>Normal Mail</title>
         <item>
+            <title>1.0.61</title>
+            <description><![CDATA[<p>
+<strong>Beta release</strong> — please send feedback from Help › Send Feedback.
+</p>
+<h3>What's new</h3>
+<ul>
+<li><strong>Translate.</strong> Messages in a language you don't read now show a <strong>Translate</strong> button. The translation happens on your Mac, so nothing is sent anywhere. Quoted earlier messages are left out, and <strong>Show Original</strong> switches back. The first time you translate from a language, macOS may ask to download it.</li>
+<li><strong>Reply from the notch.</strong> New mail at the notch now has a reply button. Type, press Return, and it's sent with the usual few seconds to undo. Escape cancels.</li>
+</ul>]]></description>
+            <pubDate>Fri, 30 Oct 2026 11:08:26 -0400</pubDate>
+            <sparkle:version>63</sparkle:version>
+            <sparkle:shortVersionString>1.0.61</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/zeve-zz/updates/releases/download/v1.0.61/Normal.Mail.1.0.61.zip" length="7890233" type="application/octet-stream" sparkle:edSignature="D4vNqFIEJD3GRR7EJpudzXDxgNQ/XsqgAJyC9Y/mqDpVUl+jww3uuosxbFfr0XE4AN1Llj0N2zhFsoQb5idPDQ=="/>
+        </item>
+        <item>
             <title>1.0.60</title>
             <description><![CDATA[<p>
 <strong>Beta release</strong> — please send feedback from Help › Send Feedback.
@@ -31,29 +47,6 @@
             <sparkle:shortVersionString>1.0.59</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
             <enclosure url="https://github.com/zeve-zz/updates/releases/download/v1.0.59/Normal.Mail.1.0.59.zip" length="7840714" type="application/octet-stream" sparkle:edSignature="ubg2xvzTMz2D3JimkHQrcLG2wu2/i4p2dh/UDx1bwQIdHvVxjoA2jQ/2itOEOFTblUFOVGFr4ArfyjG9H1BjBg=="/>
-        </item>
-        <item>
-            <title>1.0.58</title>
-            <description><![CDATA[<p>
-<strong>Beta release</strong> — please send feedback from Help › Send Feedback.
-</p>
-<h3>What's new</h3>
-<ul>
-<li><strong>Escape closes the message you're writing.</strong> If there's anything in it, you're asked whether to keep the draft.</li>
-<li><strong>Paste files and screenshots.</strong> Pressing ⌘V on files copied in Finder, or on a screenshot copied to the clipboard, now adds them as attachments.</li>
-<li><strong>⌘Z undoes more.</strong> Deleting a single message from a conversation and adding or removing a label can now be undone.</li>
-</ul>
-<h3>Bug fixes</h3>
-<ul>
-<li>Very long names no longer run past the edge of the To and Cc fields. They end in "…" instead.</li>
-<li>In the search field or the reply box, ⌘Z now undoes your typing instead of your last archive or delete.</li>
-<li>If your name contains a comma, it's now formatted correctly when you send.</li>
-</ul>]]></description>
-            <pubDate>Fri, 30 Oct 2026 10:34:51 -0400</pubDate>
-            <sparkle:version>60</sparkle:version>
-            <sparkle:shortVersionString>1.0.58</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/zeve-zz/updates/releases/download/v1.0.58/Normal.Mail.1.0.58.zip" length="7788621" type="application/octet-stream" sparkle:edSignature="vazl/30b0dXHB9GL5Mtz+UMjYP7DlfWezdLgJsYleOvGY4iC5twsxC0s5MckrCvEtkGErUn+0r4y5XzSgmBaDA=="/>
         </item>
     </channel>
 </rss>
