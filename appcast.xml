@@ -3,6 +3,23 @@
     <channel>
         <title>Normal Mail</title>
         <item>
+            <title>1.0.71</title>
+            <description><![CDATA[<p>
+<strong>Beta release</strong> — please send feedback from Help › Send Feedback.
+</p>
+<h3>What's new</h3>
+<ul>
+<li><strong>Desktop widget.</strong> Add <strong>Unread Mail</strong> from Edit Widgets to see your unread count at a glance. The larger size also shows your newest unread messages.</li>
+<li><strong>Focus filters.</strong> In System Settings › Focus, pick a Focus such as Work and add a Normal Mail filter with the accounts you want. During that Focus, only those accounts appear in All Inboxes and the sidebar, and only they send notifications.</li>
+<li><strong>Find mail with Spotlight (optional).</strong> Turn on <strong>Show mail in Spotlight search</strong> in Settings › General › Privacy, then find conversations with ⌘Space by subject or sender. It's off by default, and turning it off removes your mail from Spotlight.</li>
+</ul>]]></description>
+            <pubDate>Fri, 30 Oct 2026 15:01:36 -0400</pubDate>
+            <sparkle:version>73</sparkle:version>
+            <sparkle:shortVersionString>1.0.71</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/zeve-zz/updates/releases/download/v1.0.71/Normal.Mail.1.0.71.zip" length="8341352" type="application/octet-stream" sparkle:edSignature="bSho2DutQBdaP8oX3mbqoeu0NOvcfSSkGEmnBu6uce8rGZRTlQtAnteqQyymFJ6yooOI1cz3iajZ0IGGOUgHDg=="/>
+        </item>
+        <item>
             <title>1.0.70</title>
             <description><![CDATA[<p>
 <strong>Beta release</strong> — please send feedback from Help › Send Feedback.
@@ -31,28 +48,6 @@
             <sparkle:shortVersionString>1.0.69</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
             <enclosure url="https://github.com/zeve-zz/updates/releases/download/v1.0.69/Normal.Mail.1.0.69.zip" length="8218539" type="application/octet-stream" sparkle:edSignature="il3eg/uZa9LUvQv1Ee00Zk9RuUG/iq2aAtjAdjuTUe9wpE8ZM8wNSp91WT7PhNDQy3jTJBE/V5SGBlbN06HWBg=="/>
-        </item>
-        <item>
-            <title>1.0.68</title>
-            <description><![CDATA[<p>
-<strong>Beta release</strong> — please send feedback from Help › Send Feedback.
-</p>
-<h3>What's new</h3>
-<ul>
-<li><strong>Share › Normal Mail.</strong> Share files, photos, web pages or text from any app to start a new message:</li>
-</ul>
-<p>
-  - files and images arrive as attachments;
-<br>  - a web page arrives as a link, with its title as the subject.
-</p>
-<ul>
-<li><strong>Drop files on the Dock icon</strong> to start a new message with them attached.</li>
-</ul>]]></description>
-            <pubDate>Fri, 30 Oct 2026 11:46:01 -0400</pubDate>
-            <sparkle:version>70</sparkle:version>
-            <sparkle:shortVersionString>1.0.68</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/zeve-zz/updates/releases/download/v1.0.68/Normal.Mail.1.0.68.zip" length="8211855" type="application/octet-stream" sparkle:edSignature="vN3Emhd8yy4eZmc3vT+KHnHFchxuZteGk3SUOiTQW312ACEt5GcbSVgYY+fkIENLTf69OMk/6iWQCZwfNVGVCg=="/>
         </item>
     </channel>
 </rss>
