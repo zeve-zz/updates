@@ -3,6 +3,26 @@
     <channel>
         <title>Normal Mail</title>
         <item>
+            <title>1.0.52</title>
+            <description><![CDATA[<p>
+<strong>Beta release</strong> — please send feedback from Help › Send Feedback.
+</p>
+<h3>What's new</h3>
+<ul>
+<li><strong>⌘Z undoes more.</strong> Star, mark as read or unread, Report Spam, Not Spam, and dragging conversations onto a label, Trash or Spam can all be undone, like Archive and Delete already could.</li>
+<li><strong>⌘L for Send Later</strong> while writing a message.</li>
+</ul>
+<h3>Bug fixes</h3>
+<ul>
+<li>Quitting Normal Mail during the Undo Send countdown no longer loses the message. It's sent right away before the app quits.</li>
+</ul>]]></description>
+            <pubDate>Fri, 30 Oct 2026 09:08:19 -0400</pubDate>
+            <sparkle:version>54</sparkle:version>
+            <sparkle:shortVersionString>1.0.52</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/zeve-zz/updates/releases/download/v1.0.52/Normal.Mail.1.0.52.zip" length="7638559" type="application/octet-stream" sparkle:edSignature="bANUwFzQ0+BCifwFNFYovcLknGjXtRjvWyNXRUXVJm4EeiwTUzZy8GWX02RPH6QG2OI9rOXcXexqXPYtBgouDg=="/>
+        </item>
+        <item>
             <title>1.0.51</title>
             <description><![CDATA[<p>
 <strong>Beta release</strong> — please send feedback from Help › Send Feedback.
@@ -32,21 +52,6 @@
             <sparkle:shortVersionString>1.0.50</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
             <enclosure url="https://github.com/zeve-zz/updates/releases/download/v1.0.50/Normal.Mail.1.0.50.zip" length="7627161" type="application/octet-stream" sparkle:edSignature="CZ7l6AKJvchCwV+M0s7BfJa3Jr0MSRGvGfaGQacEDeqbaoLv6rQMkh/yu8k+1DxNzy26AG/tClQ67H3BzLLnCg=="/>
-        </item>
-        <item>
-            <title>1.0.49</title>
-            <description><![CDATA[<p>
-<strong>Beta release</strong> — please send feedback from Help › Send Feedback.
-</p>
-<h3>Bug fixes</h3>
-<ul>
-<li>The "Sending…" card shows who the message is going to and a preview again while you're reading a different conversation.</li>
-</ul>]]></description>
-            <pubDate>Fri, 23 Oct 2026 13:45:31 -0400</pubDate>
-            <sparkle:version>51</sparkle:version>
-            <sparkle:shortVersionString>1.0.49</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/zeve-zz/updates/releases/download/v1.0.49/Normal.Mail.1.0.49.zip" length="7604465" type="application/octet-stream" sparkle:edSignature="IkkylUY8dzTrdjD4pk0t5gH5u04JhZfxaumZtFrWEm+ueWkhyo0jhMmOT9czZ0+91TrjBe4xGRV9U/0vnFzXBQ=="/>
         </item>
     </channel>
 </rss>
