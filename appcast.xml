@@ -3,6 +3,26 @@
     <channel>
         <title>Normal Mail</title>
         <item>
+            <title>1.0.75</title>
+            <description><![CDATA[<p>
+<strong>Beta release</strong> — please send feedback from Help › Send Feedback.
+</p>
+<h3>What's new</h3>
+<ul>
+<li><strong>Privacy Mode.</strong> For when someone comes by your desk. Click the sunglasses in the toolbar, or press <strong>⌃⌘P</strong> (also under View and in the menu bar). Every Normal Mail window is blurred and new mail stops showing notifications. Widgets and the menu bar's unread list are hidden too. Click <strong>Show Mail</strong> or press ⌃⌘P again to turn it off.</li>
+</ul>
+<h3>Improvements</h3>
+<ul>
+<li>Long recipient lists show the first three names, then "and N more".</li>
+<li>A warning about a fake sender now wraps onto more lines instead of being cut off.</li>
+</ul>]]></description>
+            <pubDate>Sat, 31 Oct 2026 17:30:05 -0400</pubDate>
+            <sparkle:version>77</sparkle:version>
+            <sparkle:shortVersionString>1.0.75</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/zeve-zz/updates/releases/download/v1.0.75/Normal.Mail.1.0.75.zip" length="8519617" type="application/octet-stream" sparkle:edSignature="54xYZ0ifb0yHRQOkcR9tfGwUEBf+zJxaJ+3Oa3i788ZXDi8qvcdKC9g3apK01yqvu8QbKEdUl+H4Zz6PurJACw=="/>
+        </item>
+        <item>
             <title>1.0.74</title>
             <description><![CDATA[<p>
 <strong>Beta release</strong> — please send feedback from Help › Send Feedback.
@@ -31,31 +51,6 @@
             <sparkle:shortVersionString>1.0.73</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
             <enclosure url="https://github.com/zeve-zz/updates/releases/download/v1.0.73/Normal.Mail.1.0.73.zip" length="8497987" type="application/octet-stream" sparkle:edSignature="/tCaHPzATGpf8BifY0M5yEIambJTuvxoUfzWPaDtOCoDZ9pJGd4hLRg2ukJBqp4AcvxltgENElgvrGt1uY/0Bg=="/>
-        </item>
-        <item>
-            <title>1.0.72</title>
-            <description><![CDATA[<p>
-<strong>Beta release</strong> — please send feedback from Help › Send Feedback.
-</p>
-<h3>What's new</h3>
-<ul>
-<li><strong>Better widgets.</strong></li>
-</ul>
-<p>
-  - Click a message in the <strong>Mail</strong> widget to open that conversation.
-<br>  - Right-click the widget › <strong>Edit "Mail"</strong> to pick an account and Inbox or Starred.
-<br>  - The big number now shows mail that arrived <strong>today</strong> instead of every unread message.
-<br>  - Each widget has a compose button, and there's a new large size.
-</p>
-<ul>
-<li><strong>Sign-In Code widget.</strong> It shows the newest sign-in code from the last 10 minutes. Click to copy.</li>
-<li><strong>Sender pictures.</strong> People in your Google contacts now show their photo instead of an initial. To also use photos from the Contacts app on your Mac, turn it on in Settings › General. If Google pictures don't appear, use <strong>Allow Google Contacts…</strong> there.</li>
-</ul>]]></description>
-            <pubDate>Fri, 30 Oct 2026 15:15:00 -0400</pubDate>
-            <sparkle:version>74</sparkle:version>
-            <sparkle:shortVersionString>1.0.72</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/zeve-zz/updates/releases/download/v1.0.72/Normal.Mail.1.0.72.zip" length="8497455" type="application/octet-stream" sparkle:edSignature="tlsNnDmDyQ/MWVkdhmUf6bn3ROssCQlInahRBkfwclMcDb5g23KTns891l5/zhEw0qqMOf9pq2EMlLGcDQGUAw=="/>
         </item>
     </channel>
 </rss>
