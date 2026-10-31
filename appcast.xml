@@ -3,6 +3,21 @@
     <channel>
         <title>Normal Mail</title>
         <item>
+            <title>1.0.76</title>
+            <description><![CDATA[<p>
+<strong>Beta release</strong> — please send feedback from Help › Send Feedback.
+</p>
+<h3>Improvements</h3>
+<ul>
+<li><strong>Privacy Mode hides the toolbar too.</strong> While it's on, each window shows only the blur and a <strong>Show Mail</strong> button. Press ⌃⌘P or click Show Mail to bring everything back.</li>
+</ul>]]></description>
+            <pubDate>Sat, 31 Oct 2026 17:35:33 -0400</pubDate>
+            <sparkle:version>78</sparkle:version>
+            <sparkle:shortVersionString>1.0.76</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/zeve-zz/updates/releases/download/v1.0.76/Normal.Mail.1.0.76.zip" length="8518374" type="application/octet-stream" sparkle:edSignature="CSSQEOz+TBFigLXsTVIQbUGCKTDfO8q5WaJCOo1YV2s+1KbvZTlkXnUGwErJIzdnlMyalKujLE990f2VA9cxDQ=="/>
+        </item>
+        <item>
             <title>1.0.75</title>
             <description><![CDATA[<p>
 <strong>Beta release</strong> — please send feedback from Help › Send Feedback.
@@ -36,21 +51,6 @@
             <sparkle:shortVersionString>1.0.74</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
             <enclosure url="https://github.com/zeve-zz/updates/releases/download/v1.0.74/Normal.Mail.1.0.74.zip" length="8485436" type="application/octet-stream" sparkle:edSignature="lovLbgaT4DQSx9WFzwy6qgv5yHbatrSczORKZa0uvwHZm4Jb2HTJ2+zt/0R45MTaXqoWlBF2H9y2JA/RGj3QCA=="/>
-        </item>
-        <item>
-            <title>1.0.73</title>
-            <description><![CDATA[<p>
-<strong>Beta release</strong> — please send feedback from Help › Send Feedback.
-</p>
-<h3>Bug fixes</h3>
-<ul>
-<li>Fixed blank widgets after updating. A Normal Mail widget added before 1.0.72 now turns into the new <strong>Mail</strong> widget instead of making all Normal Mail widgets go blank.</li>
-</ul>]]></description>
-            <pubDate>Sat, 31 Oct 2026 10:28:40 -0400</pubDate>
-            <sparkle:version>75</sparkle:version>
-            <sparkle:shortVersionString>1.0.73</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/zeve-zz/updates/releases/download/v1.0.73/Normal.Mail.1.0.73.zip" length="8497987" type="application/octet-stream" sparkle:edSignature="/tCaHPzATGpf8BifY0M5yEIambJTuvxoUfzWPaDtOCoDZ9pJGd4hLRg2ukJBqp4AcvxltgENElgvrGt1uY/0Bg=="/>
         </item>
     </channel>
 </rss>
