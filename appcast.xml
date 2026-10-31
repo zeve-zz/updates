@@ -3,6 +3,21 @@
     <channel>
         <title>Normal Mail</title>
         <item>
+            <title>1.0.73</title>
+            <description><![CDATA[<p>
+<strong>Beta release</strong> — please send feedback from Help › Send Feedback.
+</p>
+<h3>Bug fixes</h3>
+<ul>
+<li>Fixed blank widgets after updating. A Normal Mail widget added before 1.0.72 now turns into the new <strong>Mail</strong> widget instead of making all Normal Mail widgets go blank.</li>
+</ul>]]></description>
+            <pubDate>Sat, 31 Oct 2026 10:28:40 -0400</pubDate>
+            <sparkle:version>75</sparkle:version>
+            <sparkle:shortVersionString>1.0.73</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/zeve-zz/updates/releases/download/v1.0.73/Normal.Mail.1.0.73.zip" length="8497987" type="application/octet-stream" sparkle:edSignature="/tCaHPzATGpf8BifY0M5yEIambJTuvxoUfzWPaDtOCoDZ9pJGd4hLRg2ukJBqp4AcvxltgENElgvrGt1uY/0Bg=="/>
+        </item>
+        <item>
             <title>1.0.72</title>
             <description><![CDATA[<p>
 <strong>Beta release</strong> — please send feedback from Help › Send Feedback.
@@ -43,21 +58,6 @@
             <sparkle:shortVersionString>1.0.71</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
             <enclosure url="https://github.com/zeve-zz/updates/releases/download/v1.0.71/Normal.Mail.1.0.71.zip" length="8341352" type="application/octet-stream" sparkle:edSignature="bSho2DutQBdaP8oX3mbqoeu0NOvcfSSkGEmnBu6uce8rGZRTlQtAnteqQyymFJ6yooOI1cz3iajZ0IGGOUgHDg=="/>
-        </item>
-        <item>
-            <title>1.0.70</title>
-            <description><![CDATA[<p>
-<strong>Beta release</strong> — please send feedback from Help › Send Feedback.
-</p>
-<h3>What's new</h3>
-<ul>
-<li><strong>Package tracking.</strong> Shipping emails with a UPS, FedEx, USPS, DHL or Amazon tracking number now show it at the top, with <strong>Track</strong> and <strong>Copy</strong> buttons. The number is found on your Mac. The carrier is only contacted if you click Track.</li>
-</ul>]]></description>
-            <pubDate>Fri, 30 Oct 2026 14:53:20 -0400</pubDate>
-            <sparkle:version>72</sparkle:version>
-            <sparkle:shortVersionString>1.0.70</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/zeve-zz/updates/releases/download/v1.0.70/Normal.Mail.1.0.70.zip" length="8231795" type="application/octet-stream" sparkle:edSignature="fsTjeQQbjwHi/RgwIjKiG27L//C884jBhDAUIFIGWsFAND4+QbNdki8NWr/Xz2Jgmi9KYy3k7DvM/ObO71WyBw=="/>
         </item>
     </channel>
 </rss>
