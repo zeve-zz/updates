@@ -3,6 +3,21 @@
     <channel>
         <title>Normal Mail</title>
         <item>
+            <title>1.0.74</title>
+            <description><![CDATA[<p>
+<strong>Beta release</strong> — please send feedback from Help › Send Feedback.
+</p>
+<h3>Bug fixes</h3>
+<ul>
+<li><strong>Widgets show up reliably.</strong> Normal Mail's widgets are now <strong>Inbox</strong>, <strong>Starred</strong> and <strong>Sign-In Code</strong>. The Inbox widget could stay blank on some Macs. To show a single account in the widgets, choose it in Settings › General › Widgets.</li>
+</ul>]]></description>
+            <pubDate>Sat, 31 Oct 2026 10:50:31 -0400</pubDate>
+            <sparkle:version>76</sparkle:version>
+            <sparkle:shortVersionString>1.0.74</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/zeve-zz/updates/releases/download/v1.0.74/Normal.Mail.1.0.74.zip" length="8485436" type="application/octet-stream" sparkle:edSignature="lovLbgaT4DQSx9WFzwy6qgv5yHbatrSczORKZa0uvwHZm4Jb2HTJ2+zt/0R45MTaXqoWlBF2H9y2JA/RGj3QCA=="/>
+        </item>
+        <item>
             <title>1.0.73</title>
             <description><![CDATA[<p>
 <strong>Beta release</strong> — please send feedback from Help › Send Feedback.
@@ -41,23 +56,6 @@
             <sparkle:shortVersionString>1.0.72</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
             <enclosure url="https://github.com/zeve-zz/updates/releases/download/v1.0.72/Normal.Mail.1.0.72.zip" length="8497455" type="application/octet-stream" sparkle:edSignature="tlsNnDmDyQ/MWVkdhmUf6bn3ROssCQlInahRBkfwclMcDb5g23KTns891l5/zhEw0qqMOf9pq2EMlLGcDQGUAw=="/>
-        </item>
-        <item>
-            <title>1.0.71</title>
-            <description><![CDATA[<p>
-<strong>Beta release</strong> — please send feedback from Help › Send Feedback.
-</p>
-<h3>What's new</h3>
-<ul>
-<li><strong>Desktop widget.</strong> Add <strong>Unread Mail</strong> from Edit Widgets to see your unread count at a glance. The larger size also shows your newest unread messages.</li>
-<li><strong>Focus filters.</strong> In System Settings › Focus, pick a Focus such as Work and add a Normal Mail filter with the accounts you want. During that Focus, only those accounts appear in All Inboxes and the sidebar, and only they send notifications.</li>
-<li><strong>Find mail with Spotlight (optional).</strong> Turn on <strong>Show mail in Spotlight search</strong> in Settings › General › Privacy, then find conversations with ⌘Space by subject or sender. It's off by default, and turning it off removes your mail from Spotlight.</li>
-</ul>]]></description>
-            <pubDate>Fri, 30 Oct 2026 15:01:36 -0400</pubDate>
-            <sparkle:version>73</sparkle:version>
-            <sparkle:shortVersionString>1.0.71</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/zeve-zz/updates/releases/download/v1.0.71/Normal.Mail.1.0.71.zip" length="8341352" type="application/octet-stream" sparkle:edSignature="bSho2DutQBdaP8oX3mbqoeu0NOvcfSSkGEmnBu6uce8rGZRTlQtAnteqQyymFJ6yooOI1cz3iajZ0IGGOUgHDg=="/>
         </item>
     </channel>
 </rss>
