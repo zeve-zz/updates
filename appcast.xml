@@ -3,6 +3,23 @@
     <channel>
         <title>Normal Mail</title>
         <item>
+            <title>1.0.77</title>
+            <description><![CDATA[<p>
+<strong>Beta release</strong> — please send feedback from Help › Send Feedback.
+</p>
+<h3>Improvements</h3>
+<ul>
+<li><strong>New tooltips.</strong> Rest on a button and its name now appears in a small dark label above it. The labels show up faster and are shorter.</li>
+<li><strong>Privacy Mode is smoother.</strong> The blur fades in and out, and compose windows no longer jump in size.</li>
+<li><strong>Move windows in Privacy Mode.</strong> Drag anywhere on the blurred window to move it.</li>
+</ul>]]></description>
+            <pubDate>Sat, 31 Oct 2026 17:56:59 -0400</pubDate>
+            <sparkle:version>79</sparkle:version>
+            <sparkle:shortVersionString>1.0.77</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/zeve-zz/updates/releases/download/v1.0.77/Normal.Mail.1.0.77.zip" length="8549230" type="application/octet-stream" sparkle:edSignature="pT9+dT692rvoD/UOH/OBCzZUjHMOMvccZCKMKvuHFWivxgCgs6xiOcUbnbCw+4S7S9bML5x49D2yrSavM1BZBA=="/>
+        </item>
+        <item>
             <title>1.0.76</title>
             <description><![CDATA[<p>
 <strong>Beta release</strong> — please send feedback from Help › Send Feedback.
@@ -36,21 +53,6 @@
             <sparkle:shortVersionString>1.0.75</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
             <enclosure url="https://github.com/zeve-zz/updates/releases/download/v1.0.75/Normal.Mail.1.0.75.zip" length="8519617" type="application/octet-stream" sparkle:edSignature="54xYZ0ifb0yHRQOkcR9tfGwUEBf+zJxaJ+3Oa3i788ZXDi8qvcdKC9g3apK01yqvu8QbKEdUl+H4Zz6PurJACw=="/>
-        </item>
-        <item>
-            <title>1.0.74</title>
-            <description><![CDATA[<p>
-<strong>Beta release</strong> — please send feedback from Help › Send Feedback.
-</p>
-<h3>Bug fixes</h3>
-<ul>
-<li><strong>Widgets show up reliably.</strong> Normal Mail's widgets are now <strong>Inbox</strong>, <strong>Starred</strong> and <strong>Sign-In Code</strong>. The Inbox widget could stay blank on some Macs. To show a single account in the widgets, choose it in Settings › General › Widgets.</li>
-</ul>]]></description>
-            <pubDate>Sat, 31 Oct 2026 10:50:31 -0400</pubDate>
-            <sparkle:version>76</sparkle:version>
-            <sparkle:shortVersionString>1.0.74</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/zeve-zz/updates/releases/download/v1.0.74/Normal.Mail.1.0.74.zip" length="8485436" type="application/octet-stream" sparkle:edSignature="lovLbgaT4DQSx9WFzwy6qgv5yHbatrSczORKZa0uvwHZm4Jb2HTJ2+zt/0R45MTaXqoWlBF2H9y2JA/RGj3QCA=="/>
         </item>
     </channel>
 </rss>
