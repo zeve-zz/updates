@@ -3,6 +3,34 @@
     <channel>
         <title>Normal Mail</title>
         <item>
+            <title>1.0.80</title>
+            <description><![CDATA[<p>
+<strong>Beta release</strong> — please send feedback from Help › Send Feedback.
+</p>
+<h3>Improvements</h3>
+<ul>
+<li><strong>Faster all round.</strong> Clicking between emails, opening them and scrolling the list do much less work, and background mail checks no longer redraw the window when nothing changed.</li>
+<li><strong>Fewer pauses.</strong> Mail from Gmail is now processed in the background, along with the hourly sign-in refresh, so the window doesn't stall while they run.</li>
+<li><strong>Opens faster.</strong> The mail window appears without waiting on a startup check.</li>
+<li><strong>Search results open right away</strong>, showing the conversation while its messages finish loading.</li>
+<li><strong>Collapsing and re-opening a message is instant</strong>, and pictures inside emails, such as logos in signatures, load faster and aren't downloaded again.</li>
+<li><strong>Move the "While you were away" card</strong> by dragging its header.</li>
+</ul>
+<h3>Bug fixes</h3>
+<ul>
+<li><strong>The first click into To or Cc in a reply now puts the cursor there.</strong> Before, typing and Backspace could go to the message body instead.</li>
+<li><strong>What's New shows every note</strong>, including ones that were missing from earlier versions.</li>
+<li><strong>Replying from a notification</strong> always replies to the full message.</li>
+<li><strong>The "New" sender badge no longer wraps onto two lines</strong> in a narrow message list.</li>
+<li>Spotlight (if turned on) no longer keeps conversations you've moved to the Trash.</li>
+</ul>]]></description>
+            <pubDate>Mon, 02 Nov 2026 11:32:30 -0500</pubDate>
+            <sparkle:version>82</sparkle:version>
+            <sparkle:shortVersionString>1.0.80</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/zeve-zz/updates/releases/download/v1.0.80/Normal.Mail.1.0.80.zip" length="8659620" type="application/octet-stream" sparkle:edSignature="eD1sYGSoQJn5JeijoI5Xg6OxtcAIJHhgVvMgXg9nx5DcGu1Xxkh6VqNW1JliZjgChv93rNtBmLgVqpJRs7/oDw=="/>
+        </item>
+        <item>
             <title>1.0.79</title>
             <description><![CDATA[<p>
 <strong>Beta release</strong> — please send feedback from Help › Send Feedback.
@@ -39,23 +67,6 @@
             <sparkle:shortVersionString>1.0.78</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
             <enclosure url="https://github.com/zeve-zz/updates/releases/download/v1.0.78/Normal.Mail.1.0.78.zip" length="8587042" type="application/octet-stream" sparkle:edSignature="NHpF3yLLx8tvlPGlaHi8HVYFgGVg6mxeLzSXU7Nas6JU17WslF6FZkOGbstunxJaqbYPsEd1UaaRCKeKDpYkAQ=="/>
-        </item>
-        <item>
-            <title>1.0.77</title>
-            <description><![CDATA[<p>
-<strong>Beta release</strong> — please send feedback from Help › Send Feedback.
-</p>
-<h3>Improvements</h3>
-<ul>
-<li><strong>New tooltips.</strong> Rest on a button and its name now appears in a small dark label above it. The labels show up faster and are shorter.</li>
-<li><strong>Privacy Mode is smoother.</strong> The blur fades in and out, and compose windows no longer jump in size.</li>
-<li><strong>Move windows in Privacy Mode.</strong> Drag anywhere on the blurred window to move it.</li>
-</ul>]]></description>
-            <pubDate>Sat, 31 Oct 2026 17:56:59 -0400</pubDate>
-            <sparkle:version>79</sparkle:version>
-            <sparkle:shortVersionString>1.0.77</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/zeve-zz/updates/releases/download/v1.0.77/Normal.Mail.1.0.77.zip" length="8549230" type="application/octet-stream" sparkle:edSignature="pT9+dT692rvoD/UOH/OBCzZUjHMOMvccZCKMKvuHFWivxgCgs6xiOcUbnbCw+4S7S9bML5x49D2yrSavM1BZBA=="/>
         </item>
     </channel>
 </rss>
