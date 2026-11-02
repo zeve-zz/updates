@@ -3,6 +3,21 @@
     <channel>
         <title>Normal Mail</title>
         <item>
+            <title>1.0.82</title>
+            <description><![CDATA[<p>
+<strong>Beta release</strong> — please send feedback from Help › Send Feedback.
+</p>
+<h3>What's new</h3>
+<ul>
+<li>Unsubscribe buttons now say how they'll unsubscribe — one-click, by email, or a web link — so you know before clicking. Hover for the address or site.</li>
+</ul>]]></description>
+            <pubDate>Mon, 02 Nov 2026 15:56:31 -0500</pubDate>
+            <sparkle:version>84</sparkle:version>
+            <sparkle:shortVersionString>1.0.82</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/zeve-zz/updates/releases/download/v1.0.82/Normal.Mail.1.0.82.zip" length="8675247" type="application/octet-stream" sparkle:edSignature="KgG535ccZsJcdVyNi0iQwq83nUE7jelUzC6WmLEgE+Dg9nfsXAj07hIfTYDeOlNYXzuUppY4G+plZRDemncmCw=="/>
+        </item>
+        <item>
             <title>1.0.81</title>
             <description><![CDATA[<p>
 <strong>Beta release</strong> — please send feedback from Help › Send Feedback.
@@ -44,25 +59,6 @@
             <sparkle:shortVersionString>1.0.80</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
             <enclosure url="https://github.com/zeve-zz/updates/releases/download/v1.0.80/Normal.Mail.1.0.80.zip" length="8659620" type="application/octet-stream" sparkle:edSignature="eD1sYGSoQJn5JeijoI5Xg6OxtcAIJHhgVvMgXg9nx5DcGu1Xxkh6VqNW1JliZjgChv93rNtBmLgVqpJRs7/oDw=="/>
-        </item>
-        <item>
-            <title>1.0.79</title>
-            <description><![CDATA[<p>
-<strong>Beta release</strong> — please send feedback from Help › Send Feedback.
-</p>
-<h3>Improvements</h3>
-<ul>
-<li><strong>"While you were away" stands out more.</strong> The card now sits in the middle of the window, which dims behind it. Click outside the card to close it.</li>
-</ul>
-<h3>Bug fixes</h3>
-<ul>
-<li><strong>Long tooltips no longer cover what they describe.</strong> They now sit fully above the item.</li>
-</ul>]]></description>
-            <pubDate>Sun, 01 Nov 2026 19:47:27 -0500</pubDate>
-            <sparkle:version>81</sparkle:version>
-            <sparkle:shortVersionString>1.0.79</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/zeve-zz/updates/releases/download/v1.0.79/Normal.Mail.1.0.79.zip" length="8590025" type="application/octet-stream" sparkle:edSignature="UmRprkb0WTUyDoIK20Gjyln8hN76Wn/f6ePmxmk9Ls89Y+HyNZhL1FS/oAMxgkcOM2ReR1j3GORTZjGoBs1qDA=="/>
         </item>
     </channel>
 </rss>
