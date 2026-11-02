@@ -3,6 +3,21 @@
     <channel>
         <title>Normal Mail</title>
         <item>
+            <title>1.0.81</title>
+            <description><![CDATA[<p>
+<strong>Beta release</strong> — please send feedback from Help › Send Feedback.
+</p>
+<h3>What's new</h3>
+<ul>
+<li>In Subscriptions, click a sender to open their latest email, so you can see what it is before unsubscribing.</li>
+</ul>]]></description>
+            <pubDate>Mon, 02 Nov 2026 15:04:29 -0500</pubDate>
+            <sparkle:version>83</sparkle:version>
+            <sparkle:shortVersionString>1.0.81</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/zeve-zz/updates/releases/download/v1.0.81/Normal.Mail.1.0.81.zip" length="8666733" type="application/octet-stream" sparkle:edSignature="oe6o0/MZQxJA9HJx/sM1edxYAAeAPJwt0xKLlRKwb+aei8PZwfLFyODPbuFMQm2CCncLj9cGs/6dd9nleGwVBw=="/>
+        </item>
+        <item>
             <title>1.0.80</title>
             <description><![CDATA[<p>
 <strong>Beta release</strong> — please send feedback from Help › Send Feedback.
@@ -48,25 +63,6 @@
             <sparkle:shortVersionString>1.0.79</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
             <enclosure url="https://github.com/zeve-zz/updates/releases/download/v1.0.79/Normal.Mail.1.0.79.zip" length="8590025" type="application/octet-stream" sparkle:edSignature="UmRprkb0WTUyDoIK20Gjyln8hN76Wn/f6ePmxmk9Ls89Y+HyNZhL1FS/oAMxgkcOM2ReR1j3GORTZjGoBs1qDA=="/>
-        </item>
-        <item>
-            <title>1.0.78</title>
-            <description><![CDATA[<p>
-<strong>Beta release</strong> — please send feedback from Help › Send Feedback.
-</p>
-<h3>What's new</h3>
-<ul>
-<li><strong>While you were away.</strong> When you turn off Privacy Mode, a card lists any mail that came in while it was on. Click a conversation to open it.</li>
-</ul>
-<h3>Bug fixes</h3>
-<ul>
-<li><strong>Buy License works again.</strong> The button now opens the checkout page instead of a "page not found" error.</li>
-</ul>]]></description>
-            <pubDate>Sun, 01 Nov 2026 15:57:30 -0500</pubDate>
-            <sparkle:version>80</sparkle:version>
-            <sparkle:shortVersionString>1.0.78</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/zeve-zz/updates/releases/download/v1.0.78/Normal.Mail.1.0.78.zip" length="8587042" type="application/octet-stream" sparkle:edSignature="NHpF3yLLx8tvlPGlaHi8HVYFgGVg6mxeLzSXU7Nas6JU17WslF6FZkOGbstunxJaqbYPsEd1UaaRCKeKDpYkAQ=="/>
         </item>
     </channel>
 </rss>
