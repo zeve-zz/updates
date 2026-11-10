@@ -3,6 +3,26 @@
     <channel>
         <title>Normal Mail</title>
         <item>
+            <title>1.0.83</title>
+            <description><![CDATA[<p>
+<strong>Beta release</strong> — please send feedback from Help › Send Feedback.
+</p>
+<h3>What's new</h3>
+<ul>
+<li>Edit your Gmail signatures in Settings › Signatures, or add one to an address that doesn't have one. Bold, italic and underline buttons show when they're on.</li>
+<li>Settings has a Privacy tab, with Block Trackers and Show Blocked Trackers Count.</li>
+<li>New Mail and Privacy Mode sounds, plus a volume slider, in Settings › Sounds.</li>
+<li>Space pages down through the open email; Shift-Space goes back to the top.</li>
+<li>Click anywhere on a notch notification to open the email, not only the subject.</li>
+<li>Beta testers can activate with the license key from their invite email.</li>
+</ul>]]></description>
+            <pubDate>Tue, 10 Nov 2026 12:16:16 -0500</pubDate>
+            <sparkle:version>85</sparkle:version>
+            <sparkle:shortVersionString>1.0.83</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/zeve-zz/updates/releases/download/v1.0.83/Normal.Mail.1.0.83.zip" length="8775668" type="application/octet-stream" sparkle:edSignature="lWuS7Fc9pAAT3AcpVXz81XMAxsUiy7QP1CiS5wFdwlZfsXNOY2dUYWaxR/A/bUTilO8mFFYfxbMmpJQtleyNDA=="/>
+        </item>
+        <item>
             <title>1.0.82</title>
             <description><![CDATA[<p>
 <strong>Beta release</strong> — please send feedback from Help › Send Feedback.
@@ -31,34 +51,6 @@
             <sparkle:shortVersionString>1.0.81</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
             <enclosure url="https://github.com/zeve-zz/updates/releases/download/v1.0.81/Normal.Mail.1.0.81.zip" length="8666733" type="application/octet-stream" sparkle:edSignature="oe6o0/MZQxJA9HJx/sM1edxYAAeAPJwt0xKLlRKwb+aei8PZwfLFyODPbuFMQm2CCncLj9cGs/6dd9nleGwVBw=="/>
-        </item>
-        <item>
-            <title>1.0.80</title>
-            <description><![CDATA[<p>
-<strong>Beta release</strong> — please send feedback from Help › Send Feedback.
-</p>
-<h3>Improvements</h3>
-<ul>
-<li><strong>Faster all round.</strong> Clicking between emails, opening them and scrolling the list do much less work, and background mail checks no longer redraw the window when nothing changed.</li>
-<li><strong>Fewer pauses.</strong> Mail from Gmail is now processed in the background, along with the hourly sign-in refresh, so the window doesn't stall while they run.</li>
-<li><strong>Opens faster.</strong> The mail window appears without waiting on a startup check.</li>
-<li><strong>Search results open right away</strong>, showing the conversation while its messages finish loading.</li>
-<li><strong>Collapsing and re-opening a message is instant</strong>, and pictures inside emails, such as logos in signatures, load faster and aren't downloaded again.</li>
-<li><strong>Move the "While you were away" card</strong> by dragging its header.</li>
-</ul>
-<h3>Bug fixes</h3>
-<ul>
-<li><strong>The first click into To or Cc in a reply now puts the cursor there.</strong> Before, typing and Backspace could go to the message body instead.</li>
-<li><strong>What's New shows every note</strong>, including ones that were missing from earlier versions.</li>
-<li><strong>Replying from a notification</strong> always replies to the full message.</li>
-<li><strong>The "New" sender badge no longer wraps onto two lines</strong> in a narrow message list.</li>
-<li>Spotlight (if turned on) no longer keeps conversations you've moved to the Trash.</li>
-</ul>]]></description>
-            <pubDate>Mon, 02 Nov 2026 11:32:30 -0500</pubDate>
-            <sparkle:version>82</sparkle:version>
-            <sparkle:shortVersionString>1.0.80</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/zeve-zz/updates/releases/download/v1.0.80/Normal.Mail.1.0.80.zip" length="8659620" type="application/octet-stream" sparkle:edSignature="eD1sYGSoQJn5JeijoI5Xg6OxtcAIJHhgVvMgXg9nx5DcGu1Xxkh6VqNW1JliZjgChv93rNtBmLgVqpJRs7/oDw=="/>
         </item>
     </channel>
 </rss>
