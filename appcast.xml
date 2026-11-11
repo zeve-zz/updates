@@ -3,19 +3,75 @@
     <channel>
         <title>Normal Mail</title>
         <item>
+            <title>1.0.84</title>
+            <description><![CDATA[<p>
+<strong>Beta release</strong> — please send feedback from Help › Send Feedback.
+</p>
+<h3>Bug fixes</h3>
+<ul><li>
+A message that fails to send is no longer lost: it reopens as a draft with the error, even if the failure happened as you quit.
+</li><li>
+Sending two messages in a row, or quitting during a send, could send one twice and drop the other.
+</li><li>
+Reopening a draft keeps its attachments and Bcc.
+</li><li>
+An address typed into To, Cc or Bcc without pressing Return is now included when you send.
+</li><li>
+Right-click actions (Trash, Star, Spam, Reply) act on the conversation you clicked.
+</li><li>
+Delete trashes the whole conversation unless you've picked a message inside it. Holding Delete no longer trashes one conversation after another.
+</li><li>
+"Sign Out" beside an account signs out that account.
+</li><li>
+Changes made on another device (archive, trash, labels) show up without a reload, and long lists keep their earlier pages.
+</li><li>
+All Inboxes keeps showing your mail when you're offline, and lists show an error with Try Again when they can't load.
+</li><li>
+Starring no longer resets the reading pane.
+</li><li>
+Pop-out windows can send quick replies and stay up to date.
+</li><li>
+Someone you've replied to no longer counts as a new sender.
+</li><li>
+All-day calendar invites are added for the right number of days.
+</li><li>
+Fixed a crash on launch caused by an unusual sender name.
+</li><li>
+Widget and Spotlight links open the right conversation when the app wasn't running.
+</li></ul>
+<h3>Security and privacy</h3>
+<ul><li>
+Quoted email in a reply can no longer run scripts.
+</li><li>
+A crafted link can no longer add hidden recipients to a new message.
+</li><li>
+Subjects and senders are no longer written to the system log.
+</li></ul>]]></description>
+            <pubDate>Tue, 10 Nov 2026 19:29:39 -0500</pubDate>
+            <sparkle:version>86</sparkle:version>
+            <sparkle:shortVersionString>1.0.84</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/zeve-zz/updates/releases/download/v1.0.84/Normal.Mail.1.0.84.zip" length="8886077" type="application/octet-stream" sparkle:edSignature="JQGlW/vMIOyE7I8H/HecSkuYnEzdK+zlS/Tpde96jMVLjs3V+izNm0eakw/nx4OdqjDJGMFAka1EERWqHPICAQ=="/>
+        </item>
+        <item>
             <title>1.0.83</title>
             <description><![CDATA[<p>
 <strong>Beta release</strong> — please send feedback from Help › Send Feedback.
 </p>
 <h3>What's new</h3>
-<ul>
-<li>Edit your Gmail signatures in Settings › Signatures, or add one to an address that doesn't have one. Bold, italic and underline buttons show when they're on.</li>
-<li>Settings has a Privacy tab, with Block Trackers and Show Blocked Trackers Count.</li>
-<li>New Mail and Privacy Mode sounds, plus a volume slider, in Settings › Sounds.</li>
-<li>Space pages down through the open email; Shift-Space goes back to the top.</li>
-<li>Click anywhere on a notch notification to open the email, not only the subject.</li>
-<li>Beta testers can activate with the license key from their invite email.</li>
-</ul>]]></description>
+<ul><li>
+Edit your Gmail signatures in Settings › Signatures, or add one to an address that doesn't have one. Bold, italic and underline buttons show when they're on.
+</li><li>
+Settings has a Privacy tab, with Block Trackers and Show Blocked Trackers Count.
+</li><li>
+New Mail and Privacy Mode sounds, plus a volume slider, in Settings › Sounds.
+</li><li>
+Space pages down through the open email; Shift-Space goes back to the top.
+</li><li>
+Click anywhere on a notch notification to open the email, not only the subject.
+</li><li>
+Beta testers can activate with the license key from their invite email.
+</li></ul>]]></description>
             <pubDate>Tue, 10 Nov 2026 12:16:16 -0500</pubDate>
             <sparkle:version>85</sparkle:version>
             <sparkle:shortVersionString>1.0.83</sparkle:shortVersionString>
@@ -28,29 +84,14 @@
 <strong>Beta release</strong> — please send feedback from Help › Send Feedback.
 </p>
 <h3>What's new</h3>
-<ul>
-<li>Unsubscribe buttons now say how they'll unsubscribe — one-click, by email, or a web link — so you know before clicking. Hover for the address or site.</li>
-</ul>]]></description>
+<ul><li>
+Unsubscribe buttons now say how they'll unsubscribe — one-click, by email, or a web link — so you know before clicking. Hover for the address or site.
+</li></ul>]]></description>
             <pubDate>Mon, 02 Nov 2026 15:56:31 -0500</pubDate>
             <sparkle:version>84</sparkle:version>
             <sparkle:shortVersionString>1.0.82</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
             <enclosure url="https://github.com/zeve-zz/updates/releases/download/v1.0.82/Normal.Mail.1.0.82.zip" length="8675247" type="application/octet-stream" sparkle:edSignature="KgG535ccZsJcdVyNi0iQwq83nUE7jelUzC6WmLEgE+Dg9nfsXAj07hIfTYDeOlNYXzuUppY4G+plZRDemncmCw=="/>
-        </item>
-        <item>
-            <title>1.0.81</title>
-            <description><![CDATA[<p>
-<strong>Beta release</strong> — please send feedback from Help › Send Feedback.
-</p>
-<h3>What's new</h3>
-<ul>
-<li>In Subscriptions, click a sender to open their latest email, so you can see what it is before unsubscribing.</li>
-</ul>]]></description>
-            <pubDate>Mon, 02 Nov 2026 15:04:29 -0500</pubDate>
-            <sparkle:version>83</sparkle:version>
-            <sparkle:shortVersionString>1.0.81</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/zeve-zz/updates/releases/download/v1.0.81/Normal.Mail.1.0.81.zip" length="8666733" type="application/octet-stream" sparkle:edSignature="oe6o0/MZQxJA9HJx/sM1edxYAAeAPJwt0xKLlRKwb+aei8PZwfLFyODPbuFMQm2CCncLj9cGs/6dd9nleGwVBw=="/>
         </item>
     </channel>
 </rss>
