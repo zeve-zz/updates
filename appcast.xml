@@ -3,6 +3,23 @@
     <channel>
         <title>Normal Mail</title>
         <item>
+            <title>1.0.86</title>
+            <description><![CDATA[<p>
+<strong>Beta release</strong> — please send feedback from Help › Send Feedback.
+</p>
+<h3>Bug fixes</h3>
+<ul><li>
+Fixed a crash that could happen when a tooltip appeared. Tooltips look the same as before.
+</li><li>
+Fixed a possible crash while the new-mail banner at the notch was animating.
+</li></ul>]]></description>
+            <pubDate>Thu, 12 Nov 2026 12:45:19 -0500</pubDate>
+            <sparkle:version>88</sparkle:version>
+            <sparkle:shortVersionString>1.0.86</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/zeve-zz/updates/releases/download/v1.0.86/Normal.Mail.1.0.86.zip" length="8886576" type="application/octet-stream" sparkle:edSignature="o1zGRWscVr7esEqOHEVWWWVleFNS6eGYibVEWETSc18n2kCUC0CaCRcQ24WBZJV99wwmLB5IfPgZNSU+2LxzBA=="/>
+        </item>
+        <item>
             <title>1.0.85</title>
             <description><![CDATA[<p>
 <strong>Beta release</strong> — please send feedback from Help › Send Feedback.
@@ -69,31 +86,6 @@ Subjects and senders are no longer written to the system log.
             <sparkle:shortVersionString>1.0.84</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
             <enclosure url="https://github.com/zeve-zz/updates/releases/download/v1.0.84/Normal.Mail.1.0.84.zip" length="8886077" type="application/octet-stream" sparkle:edSignature="JQGlW/vMIOyE7I8H/HecSkuYnEzdK+zlS/Tpde96jMVLjs3V+izNm0eakw/nx4OdqjDJGMFAka1EERWqHPICAQ=="/>
-        </item>
-        <item>
-            <title>1.0.83</title>
-            <description><![CDATA[<p>
-<strong>Beta release</strong> — please send feedback from Help › Send Feedback.
-</p>
-<h3>What's new</h3>
-<ul><li>
-Edit your Gmail signatures in Settings › Signatures, or add one to an address that doesn't have one. Bold, italic and underline buttons show when they're on.
-</li><li>
-Settings has a Privacy tab, with Block Trackers and Show Blocked Trackers Count.
-</li><li>
-New Mail and Privacy Mode sounds, plus a volume slider, in Settings › Sounds.
-</li><li>
-Space pages down through the open email; Shift-Space goes back to the top.
-</li><li>
-Click anywhere on a notch notification to open the email, not only the subject.
-</li><li>
-Beta testers can activate with the license key from their invite email.
-</li></ul>]]></description>
-            <pubDate>Tue, 10 Nov 2026 12:16:16 -0500</pubDate>
-            <sparkle:version>85</sparkle:version>
-            <sparkle:shortVersionString>1.0.83</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/zeve-zz/updates/releases/download/v1.0.83/Normal.Mail.1.0.83.zip" length="8775668" type="application/octet-stream" sparkle:edSignature="lWuS7Fc9pAAT3AcpVXz81XMAxsUiy7QP1CiS5wFdwlZfsXNOY2dUYWaxR/A/bUTilO8mFFYfxbMmpJQtleyNDA=="/>
         </item>
     </channel>
 </rss>
