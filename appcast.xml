@@ -3,6 +3,23 @@
     <channel>
         <title>Normal Mail</title>
         <item>
+            <title>1.0.85</title>
+            <description><![CDATA[<p>
+<strong>Beta release</strong> — please send feedback from Help › Send Feedback.
+</p>
+<h3>Bug fixes</h3>
+<ul><li>
+Fixed a crash that could happen while a tooltip or the new-mail notch banner was on screen.
+</li><li>
+Fixed a brief freeze caused by tooltips when the Mac was busy.
+</li></ul>]]></description>
+            <pubDate>Thu, 12 Nov 2026 08:18:01 -0500</pubDate>
+            <sparkle:version>87</sparkle:version>
+            <sparkle:shortVersionString>1.0.85</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/zeve-zz/updates/releases/download/v1.0.85/Normal.Mail.1.0.85.zip" length="8886827" type="application/octet-stream" sparkle:edSignature="Lxrc62AoI0iMR5+ys/hPyuD7CycXwaDvUZpaUQ9vp3COYYpBJlzEo53DNa46RTRVSDb3CHT3BNjOrW83L9thBg=="/>
+        </item>
+        <item>
             <title>1.0.84</title>
             <description><![CDATA[<p>
 <strong>Beta release</strong> — please send feedback from Help › Send Feedback.
@@ -77,21 +94,6 @@ Beta testers can activate with the license key from their invite email.
             <sparkle:shortVersionString>1.0.83</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
             <enclosure url="https://github.com/zeve-zz/updates/releases/download/v1.0.83/Normal.Mail.1.0.83.zip" length="8775668" type="application/octet-stream" sparkle:edSignature="lWuS7Fc9pAAT3AcpVXz81XMAxsUiy7QP1CiS5wFdwlZfsXNOY2dUYWaxR/A/bUTilO8mFFYfxbMmpJQtleyNDA=="/>
-        </item>
-        <item>
-            <title>1.0.82</title>
-            <description><![CDATA[<p>
-<strong>Beta release</strong> — please send feedback from Help › Send Feedback.
-</p>
-<h3>What's new</h3>
-<ul><li>
-Unsubscribe buttons now say how they'll unsubscribe — one-click, by email, or a web link — so you know before clicking. Hover for the address or site.
-</li></ul>]]></description>
-            <pubDate>Mon, 02 Nov 2026 15:56:31 -0500</pubDate>
-            <sparkle:version>84</sparkle:version>
-            <sparkle:shortVersionString>1.0.82</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/zeve-zz/updates/releases/download/v1.0.82/Normal.Mail.1.0.82.zip" length="8675247" type="application/octet-stream" sparkle:edSignature="KgG535ccZsJcdVyNi0iQwq83nUE7jelUzC6WmLEgE+Dg9nfsXAj07hIfTYDeOlNYXzuUppY4G+plZRDemncmCw=="/>
         </item>
     </channel>
 </rss>
