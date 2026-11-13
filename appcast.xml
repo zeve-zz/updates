@@ -3,6 +3,39 @@
     <channel>
         <title>Normal Mail</title>
         <item>
+            <title>1.0.87</title>
+            <description><![CDATA[<p>
+<strong>Beta release</strong> — please send feedback from Help › Send Feedback.
+</p>
+<h3>What's new</h3>
+<ul><li>
+<strong>Remind me if no reply.</strong> When writing a message, use the bell next to Send Later to pick Tomorrow, In 3 Days or In 1 Week. If nobody has answered by then, the conversation comes back to the top of your Inbox with a notification. Out-of-office replies don't count as an answer.
+</li><li>
+<strong>Needs Reply.</strong> A new sidebar item lists recent Inbox mail where someone asked you something directly and you haven't answered yet. It works entirely on your Mac.
+</li><li>
+<strong>⌘K command bar.</strong> Press ⌘K to jump to any mailbox or label, write to or find mail from a person, run any menu command, or search your mail.
+</li><li>
+<strong>Translate.</strong> Message › Translate translates a message on your Mac, and mail in another language offers a Translate button.
+</li><li>
+<strong>Tools in the sidebar.</strong> Contacts, Subscriptions, Attachments and New Senders are now grouped under Tools, which you can collapse. Right-click Tools to move the group up or down. Moving it by dragging is still being tested and may not work yet.
+</li><li>
+New Senders now looks and works like Subscriptions: search, contact photos, and click a sender to open their latest email.
+</li></ul>
+<h3>Improvements</h3>
+<ul><li>
+The Compose button stands apart from the message buttons in the toolbar.
+</li><li>
+The sidebar button sits at the sidebar's edge, as in Mail.
+</li><li>
+Shorter, tidier tooltips in Subscriptions.
+</li></ul>]]></description>
+            <pubDate>Fri, 13 Nov 2026 07:57:27 -0500</pubDate>
+            <sparkle:version>89</sparkle:version>
+            <sparkle:shortVersionString>1.0.87</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/zeve-zz/updates/releases/download/v1.0.87/Normal.Mail.1.0.87.zip" length="9086970" type="application/octet-stream" sparkle:edSignature="V5QWxftho23JCAqCB43LlmvJrI8IWFcnOnBCZiJ+M/YQTiUqPp6VDcyH4fhFKYNIBVW8w/yX0P+1LCY4qxuSBg=="/>
+        </item>
+        <item>
             <title>1.0.86</title>
             <description><![CDATA[<p>
 <strong>Beta release</strong> — please send feedback from Help › Send Feedback.
@@ -35,57 +68,6 @@ Fixed a brief freeze caused by tooltips when the Mac was busy.
             <sparkle:shortVersionString>1.0.85</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
             <enclosure url="https://github.com/zeve-zz/updates/releases/download/v1.0.85/Normal.Mail.1.0.85.zip" length="8886827" type="application/octet-stream" sparkle:edSignature="Lxrc62AoI0iMR5+ys/hPyuD7CycXwaDvUZpaUQ9vp3COYYpBJlzEo53DNa46RTRVSDb3CHT3BNjOrW83L9thBg=="/>
-        </item>
-        <item>
-            <title>1.0.84</title>
-            <description><![CDATA[<p>
-<strong>Beta release</strong> — please send feedback from Help › Send Feedback.
-</p>
-<h3>Bug fixes</h3>
-<ul><li>
-A message that fails to send is no longer lost: it reopens as a draft with the error, even if the failure happened as you quit.
-</li><li>
-Sending two messages in a row, or quitting during a send, could send one twice and drop the other.
-</li><li>
-Reopening a draft keeps its attachments and Bcc.
-</li><li>
-An address typed into To, Cc or Bcc without pressing Return is now included when you send.
-</li><li>
-Right-click actions (Trash, Star, Spam, Reply) act on the conversation you clicked.
-</li><li>
-Delete trashes the whole conversation unless you've picked a message inside it. Holding Delete no longer trashes one conversation after another.
-</li><li>
-"Sign Out" beside an account signs out that account.
-</li><li>
-Changes made on another device (archive, trash, labels) show up without a reload, and long lists keep their earlier pages.
-</li><li>
-All Inboxes keeps showing your mail when you're offline, and lists show an error with Try Again when they can't load.
-</li><li>
-Starring no longer resets the reading pane.
-</li><li>
-Pop-out windows can send quick replies and stay up to date.
-</li><li>
-Someone you've replied to no longer counts as a new sender.
-</li><li>
-All-day calendar invites are added for the right number of days.
-</li><li>
-Fixed a crash on launch caused by an unusual sender name.
-</li><li>
-Widget and Spotlight links open the right conversation when the app wasn't running.
-</li></ul>
-<h3>Security and privacy</h3>
-<ul><li>
-Quoted email in a reply can no longer run scripts.
-</li><li>
-A crafted link can no longer add hidden recipients to a new message.
-</li><li>
-Subjects and senders are no longer written to the system log.
-</li></ul>]]></description>
-            <pubDate>Tue, 10 Nov 2026 19:29:39 -0500</pubDate>
-            <sparkle:version>86</sparkle:version>
-            <sparkle:shortVersionString>1.0.84</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/zeve-zz/updates/releases/download/v1.0.84/Normal.Mail.1.0.84.zip" length="8886077" type="application/octet-stream" sparkle:edSignature="JQGlW/vMIOyE7I8H/HecSkuYnEzdK+zlS/Tpde96jMVLjs3V+izNm0eakw/nx4OdqjDJGMFAka1EERWqHPICAQ=="/>
         </item>
     </channel>
 </rss>
