@@ -3,6 +3,25 @@
     <channel>
         <title>Normal Mail</title>
         <item>
+            <title>1.0.88</title>
+            <description><![CDATA[<p>
+<strong>Beta release</strong> — please send feedback from Help › Send Feedback.
+</p>
+<h3>What's new</h3>
+<ul><li>
+<strong>Move the Tools group by dragging.</strong> Drag the Tools heading in the sidebar: a line shows where it will land, and the sidebar scrolls when you reach its edges. Press Esc to cancel. The right-click Move menu is still there.
+</li></ul>
+<h3>Bug fixes</h3>
+<ul><li>
+Dragging the Tools group now works. In 1.0.87 it could be picked up but not dropped.
+</li></ul>]]></description>
+            <pubDate>Fri, 13 Nov 2026 10:15:40 -0500</pubDate>
+            <sparkle:version>90</sparkle:version>
+            <sparkle:shortVersionString>1.0.88</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/zeve-zz/updates/releases/download/v1.0.88/Normal.Mail.1.0.88.zip" length="9112431" type="application/octet-stream" sparkle:edSignature="p2Wdrq5xk7UXvsCIxIq1d5mRxqGc726Vv2RTWwiRUtk9U8PxTD4cCXB88l8z63HkJQpNk49pDQfi9Avx5xxLAg=="/>
+        </item>
+        <item>
             <title>1.0.87</title>
             <description><![CDATA[<p>
 <strong>Beta release</strong> — please send feedback from Help › Send Feedback.
@@ -51,23 +70,6 @@ Fixed a possible crash while the new-mail banner at the notch was animating.
             <sparkle:shortVersionString>1.0.86</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
             <enclosure url="https://github.com/zeve-zz/updates/releases/download/v1.0.86/Normal.Mail.1.0.86.zip" length="8886576" type="application/octet-stream" sparkle:edSignature="o1zGRWscVr7esEqOHEVWWWVleFNS6eGYibVEWETSc18n2kCUC0CaCRcQ24WBZJV99wwmLB5IfPgZNSU+2LxzBA=="/>
-        </item>
-        <item>
-            <title>1.0.85</title>
-            <description><![CDATA[<p>
-<strong>Beta release</strong> — please send feedback from Help › Send Feedback.
-</p>
-<h3>Bug fixes</h3>
-<ul><li>
-Fixed a crash that could happen while a tooltip or the new-mail notch banner was on screen.
-</li><li>
-Fixed a brief freeze caused by tooltips when the Mac was busy.
-</li></ul>]]></description>
-            <pubDate>Thu, 12 Nov 2026 08:18:01 -0500</pubDate>
-            <sparkle:version>87</sparkle:version>
-            <sparkle:shortVersionString>1.0.85</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/zeve-zz/updates/releases/download/v1.0.85/Normal.Mail.1.0.85.zip" length="8886827" type="application/octet-stream" sparkle:edSignature="Lxrc62AoI0iMR5+ys/hPyuD7CycXwaDvUZpaUQ9vp3COYYpBJlzEo53DNa46RTRVSDb3CHT3BNjOrW83L9thBg=="/>
         </item>
     </channel>
 </rss>
