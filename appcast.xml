@@ -3,6 +3,33 @@
     <channel>
         <title>Normal Mail</title>
         <item>
+            <title>1.0.89.02</title>
+            <description><![CDATA[<p>
+<strong>Beta release</strong> — please send feedback from Help › Send Feedback.
+</p>
+<h3>What's new</h3>
+<ul><li>
+<strong>Reply from the notch, with Undo.</strong> After you send a reply from the notch, it shows "Sending…" for a few seconds with an Undo button, then "Sent". If it can't send, your reply stays in the field so you can try again.
+</li><li>
+<strong>Keyboard shortcuts in the sidebar.</strong> ⌘2 opens Starred and ⌘3 opens Needs Reply, next to ⌘1 for the Inbox. Hold ⌘ for a moment to see them in the sidebar.
+</li><li>
+All Inboxes, All Starred and Needs Reply now sit under their own "All Accounts" heading.
+</li></ul>
+<h3>Improvements</h3>
+<ul><li>
+Every row in the sidebar now has the same layout, so icons and names line up, including the Tools group.
+</li><li>
+Large unread counts are shortened (42.9K) so they no longer squeeze mailbox names.
+</li><li>
+The sidebar can't be made so narrow that names get cut off.
+</li></ul>]]></description>
+            <pubDate>Fri, 13 Nov 2026 15:01:43 -0500</pubDate>
+            <sparkle:version>92</sparkle:version>
+            <sparkle:shortVersionString>1.0.89.02</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/zeve-zz/updates/releases/download/v1.0.89.02/Normal.Mail.1.0.89.02.zip" length="9168887" type="application/octet-stream" sparkle:edSignature="kRlJNaaCGGUSA63whG7ikdiAGCzgmEBO0zp0Ay2ilJS/5XKP5JKN7eshA8CoorCwQl6bExtk+n96xA09WEI/Dg=="/>
+        </item>
+        <item>
             <title>1.0.89.01</title>
             <description><![CDATA[<p>
 <strong>Beta release</strong> — please send feedback from Help › Send Feedback.
@@ -51,39 +78,6 @@ Dragging the Tools group now works. In 1.0.87 it could be picked up but not drop
             <sparkle:shortVersionString>1.0.88</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
             <enclosure url="https://github.com/zeve-zz/updates/releases/download/v1.0.88/Normal.Mail.1.0.88.zip" length="9112431" type="application/octet-stream" sparkle:edSignature="p2Wdrq5xk7UXvsCIxIq1d5mRxqGc726Vv2RTWwiRUtk9U8PxTD4cCXB88l8z63HkJQpNk49pDQfi9Avx5xxLAg=="/>
-        </item>
-        <item>
-            <title>1.0.87</title>
-            <description><![CDATA[<p>
-<strong>Beta release</strong> — please send feedback from Help › Send Feedback.
-</p>
-<h3>What's new</h3>
-<ul><li>
-<strong>Remind me if no reply.</strong> When writing a message, use the bell next to Send Later to pick Tomorrow, In 3 Days or In 1 Week. If nobody has answered by then, the conversation comes back to the top of your Inbox with a notification. Out-of-office replies don't count as an answer.
-</li><li>
-<strong>Needs Reply.</strong> A new sidebar item lists recent Inbox mail where someone asked you something directly and you haven't answered yet. It works entirely on your Mac.
-</li><li>
-<strong>⌘K command bar.</strong> Press ⌘K to jump to any mailbox or label, write to or find mail from a person, run any menu command, or search your mail.
-</li><li>
-<strong>Translate.</strong> Message › Translate translates a message on your Mac, and mail in another language offers a Translate button.
-</li><li>
-<strong>Tools in the sidebar.</strong> Contacts, Subscriptions, Attachments and New Senders are now grouped under Tools, which you can collapse. Right-click Tools to move the group up or down. Moving it by dragging is still being tested and may not work yet.
-</li><li>
-New Senders now looks and works like Subscriptions: search, contact photos, and click a sender to open their latest email.
-</li></ul>
-<h3>Improvements</h3>
-<ul><li>
-The Compose button stands apart from the message buttons in the toolbar.
-</li><li>
-The sidebar button sits at the sidebar's edge, as in Mail.
-</li><li>
-Shorter, tidier tooltips in Subscriptions.
-</li></ul>]]></description>
-            <pubDate>Fri, 13 Nov 2026 07:57:27 -0500</pubDate>
-            <sparkle:version>89</sparkle:version>
-            <sparkle:shortVersionString>1.0.87</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/zeve-zz/updates/releases/download/v1.0.87/Normal.Mail.1.0.87.zip" length="9086970" type="application/octet-stream" sparkle:edSignature="V5QWxftho23JCAqCB43LlmvJrI8IWFcnOnBCZiJ+M/YQTiUqPp6VDcyH4fhFKYNIBVW8w/yX0P+1LCY4qxuSBg=="/>
         </item>
     </channel>
 </rss>
