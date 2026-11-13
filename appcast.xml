@@ -3,6 +3,37 @@
     <channel>
         <title>Normal Mail</title>
         <item>
+            <title>1.0.89.01</title>
+            <description><![CDATA[<p>
+<strong>Beta release</strong> — please send feedback from Help › Send Feedback.
+</p>
+<h3>What's new</h3>
+<ul><li>
+Clicking the menu bar icon, or switching back to Normal Mail, checks for new mail right away.
+</li><li>
+Tooltips on rows now appear under the pointer instead of covering the row above.
+</li></ul>
+<h3>Bug fixes</h3>
+<ul><li>
+Moving the Tools group by dragging could save the new place but leave the sidebar showing the old order.
+</li><li>
+Needs Reply could miss questions from more than a page back in a busy Inbox, and could count your own replies sent from an alias.
+</li><li>
+"Remind me if no reply" is now kept when you close a draft and open it again.
+</li><li>
+An automatic reply from a no-reply or notification address no longer cancels a "Remind me if no reply" reminder.
+</li><li>
+Dragging mail or a mailbox onto another account's mailbox is now refused instead of seeming to work and doing nothing.
+</li><li>
+A search started from ⌘K no longer keeps filters left over from an earlier search.
+</li></ul>]]></description>
+            <pubDate>Fri, 13 Nov 2026 13:59:00 -0500</pubDate>
+            <sparkle:version>91</sparkle:version>
+            <sparkle:shortVersionString>1.0.89.01</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/zeve-zz/updates/releases/download/v1.0.89.01/Normal.Mail.1.0.89.01.zip" length="9126695" type="application/octet-stream" sparkle:edSignature="Lg6uKmTG/wVBq1iAziagXXR4lipKIgNnKnO0lkFOAC2e888s8aLf9h3rSp30CzReOZmUi2+ab/XQtHTVS7wLBA=="/>
+        </item>
+        <item>
             <title>1.0.88</title>
             <description><![CDATA[<p>
 <strong>Beta release</strong> — please send feedback from Help › Send Feedback.
@@ -53,23 +84,6 @@ Shorter, tidier tooltips in Subscriptions.
             <sparkle:shortVersionString>1.0.87</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
             <enclosure url="https://github.com/zeve-zz/updates/releases/download/v1.0.87/Normal.Mail.1.0.87.zip" length="9086970" type="application/octet-stream" sparkle:edSignature="V5QWxftho23JCAqCB43LlmvJrI8IWFcnOnBCZiJ+M/YQTiUqPp6VDcyH4fhFKYNIBVW8w/yX0P+1LCY4qxuSBg=="/>
-        </item>
-        <item>
-            <title>1.0.86</title>
-            <description><![CDATA[<p>
-<strong>Beta release</strong> — please send feedback from Help › Send Feedback.
-</p>
-<h3>Bug fixes</h3>
-<ul><li>
-Fixed a crash that could happen when a tooltip appeared. Tooltips look the same as before.
-</li><li>
-Fixed a possible crash while the new-mail banner at the notch was animating.
-</li></ul>]]></description>
-            <pubDate>Thu, 12 Nov 2026 12:45:19 -0500</pubDate>
-            <sparkle:version>88</sparkle:version>
-            <sparkle:shortVersionString>1.0.86</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/zeve-zz/updates/releases/download/v1.0.86/Normal.Mail.1.0.86.zip" length="8886576" type="application/octet-stream" sparkle:edSignature="o1zGRWscVr7esEqOHEVWWWVleFNS6eGYibVEWETSc18n2kCUC0CaCRcQ24WBZJV99wwmLB5IfPgZNSU+2LxzBA=="/>
         </item>
     </channel>
 </rss>
