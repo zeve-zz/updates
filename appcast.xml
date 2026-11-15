@@ -3,6 +3,29 @@
     <channel>
         <title>Normal Mail</title>
         <item>
+            <title>1.0.89.03</title>
+            <description><![CDATA[<p>
+<strong>Beta release</strong> — please send feedback from Help › Send Feedback.
+</p>
+<h3>What's new</h3>
+<ul><li>
+<strong>Automatically install updates.</strong> A new switch in Settings › Updates. New versions download in the background and install the next time you quit. Normal Mail never quits or restarts on its own.
+</li><li>
+<strong>Know when an update is ready.</strong> Once an update has downloaded, a notification says so, with a Restart Now button. The Normal Mail menu and Settings › Updates offer Restart Now too. If you never quit, you get a reminder once a day.
+</li></ul>
+<h3>Improvements</h3>
+<ul><li>
+You now get a notification when a new version is out, even if Normal Mail is in the background. Before, the update window waited until you next switched to the app.
+</li><li>
+Normal Mail checks for updates every hour instead of once a day, and no longer asks whether to check automatically.
+</li></ul>]]></description>
+            <pubDate>Sun, 15 Nov 2026 07:29:57 -0500</pubDate>
+            <sparkle:version>93</sparkle:version>
+            <sparkle:shortVersionString>1.0.89.03</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/zeve-zz/updates/releases/download/v1.0.89.03/Normal.Mail.1.0.89.03.zip" length="9189218" type="application/octet-stream" sparkle:edSignature="TXH7CFHLYrDt3Yh1BnTK6ZOhNxeiUH8s+Yfpy5YHorPGh9b4Rij4IqUeiF/8Vv+b6d+RuiVqAIWuX6/pOJaYDQ=="/>
+        </item>
+        <item>
             <title>1.0.89.02</title>
             <description><![CDATA[<p>
 <strong>Beta release</strong> — please send feedback from Help › Send Feedback.
@@ -59,25 +82,6 @@ A search started from ⌘K no longer keeps filters left over from an earlier sea
             <sparkle:shortVersionString>1.0.89.01</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
             <enclosure url="https://github.com/zeve-zz/updates/releases/download/v1.0.89.01/Normal.Mail.1.0.89.01.zip" length="9126695" type="application/octet-stream" sparkle:edSignature="Lg6uKmTG/wVBq1iAziagXXR4lipKIgNnKnO0lkFOAC2e888s8aLf9h3rSp30CzReOZmUi2+ab/XQtHTVS7wLBA=="/>
-        </item>
-        <item>
-            <title>1.0.88</title>
-            <description><![CDATA[<p>
-<strong>Beta release</strong> — please send feedback from Help › Send Feedback.
-</p>
-<h3>What's new</h3>
-<ul><li>
-<strong>Move the Tools group by dragging.</strong> Drag the Tools heading in the sidebar: a line shows where it will land, and the sidebar scrolls when you reach its edges. Press Esc to cancel. The right-click Move menu is still there.
-</li></ul>
-<h3>Bug fixes</h3>
-<ul><li>
-Dragging the Tools group now works. In 1.0.87 it could be picked up but not dropped.
-</li></ul>]]></description>
-            <pubDate>Fri, 13 Nov 2026 10:15:40 -0500</pubDate>
-            <sparkle:version>90</sparkle:version>
-            <sparkle:shortVersionString>1.0.88</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/zeve-zz/updates/releases/download/v1.0.88/Normal.Mail.1.0.88.zip" length="9112431" type="application/octet-stream" sparkle:edSignature="p2Wdrq5xk7UXvsCIxIq1d5mRxqGc726Vv2RTWwiRUtk9U8PxTD4cCXB88l8z63HkJQpNk49pDQfi9Avx5xxLAg=="/>
         </item>
     </channel>
 </rss>
